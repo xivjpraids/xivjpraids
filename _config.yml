@@ -1,0 +1,45 @@
+remote_theme: just-the-docs/just-the-docs@v0.9.0
+
+plugins:
+  - jekyll-seo-tag
+
+title: "XIVJP"
+description: "Final Fantasy XIV Raid Macros for JP"
+
+favicon_ico: "favicon.ico"
+
+color_scheme: dark
+
+aux_links:
+  "Elemental DC Raid Macros Discord":
+    - "https://discord.gg/WEzhVHwAU6"
+  "Github":
+    - "https://github.com/Tuufless/xivjp"
+
+aux_links_new_tab: true
+
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+collections:
+  current:
+    permalink: "/:collection/:path/"
+    output: true
+  raids:
+    permalink: "/:collection/:path/"
+    output: true
+  ultimates:
+    permalink: "/:collection/:path/"
+    output: true
+
+# The order and names here determines the order in the sidebar
+just_the_docs:
+  collections:
+    current:
+      name: 7.1 Crossroads
+    ultimates:
+      name: Ultimates
+    raids:
+      name: Archives
