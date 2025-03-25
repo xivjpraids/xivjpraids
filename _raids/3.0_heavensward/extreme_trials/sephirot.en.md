@@ -54,5 +54,5 @@ The `B` and `C` markers were used for Earthshakers as they are proximity damage 
 
 </details>
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -44,5 +44,5 @@ The 8th marker (`D`) is placed slightly towards the center of the arena.
 ```
 </details>
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

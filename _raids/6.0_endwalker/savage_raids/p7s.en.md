@@ -136,5 +136,5 @@ minotaur players to survive.
 
 ![]({{site.baseurl}}/images/6.0_endwalker/p7s/wars_harvest.jpg)
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

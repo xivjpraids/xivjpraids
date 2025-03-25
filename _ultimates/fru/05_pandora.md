@@ -447,5 +447,5 @@ she does so, *immediately* LB3 (or it will not resolve before the enrage).
 </table>
 </details>
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

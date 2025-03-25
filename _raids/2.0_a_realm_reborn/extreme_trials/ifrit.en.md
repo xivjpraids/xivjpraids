@@ -13,5 +13,5 @@ permalink: /2.0_a_realm_reborn/extreme_trials/ifrit/
 
 {% include_relative macros/ifrit.jp.md %}
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

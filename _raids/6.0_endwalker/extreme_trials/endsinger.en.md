@@ -71,5 +71,5 @@ If you have LB3 available during the 2x Fatalism (quadruple planets), a Tank LB3
 
 To get the LB3 by this time, you will need a standard party setup with no duplicate jobs.
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

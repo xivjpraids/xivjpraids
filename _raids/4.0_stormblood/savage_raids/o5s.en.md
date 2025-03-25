@@ -13,5 +13,5 @@ permalink: /4.0_stormblood/savage_raids/o5s/
 
 {% include_relative macros/o5s.jp.md %}
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

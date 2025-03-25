@@ -132,5 +132,5 @@ The two players with the 20s debuffs start a little under the boss. All other
 players can wait for their vulnerability debuff to wear off before then
 stepping inside the boss's hitbox.
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

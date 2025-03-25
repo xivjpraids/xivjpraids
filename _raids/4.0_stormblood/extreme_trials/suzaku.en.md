@@ -23,5 +23,5 @@ A more up-to-date reference would be Nukemaru's guide:
 
 {% include_relative macros/suzaku.en.md %}
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

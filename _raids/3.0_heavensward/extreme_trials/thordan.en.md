@@ -95,5 +95,5 @@ half the party's max HP).
 If your party is struggling with this phase, you can choose to ignore the
 north Comet (which is easily recognisable via Thordan's sword just beside it).
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -61,5 +61,5 @@ DPS positions are based on which ball you are tethered to.
 ![](https://i.redd.it/5yeyuk65qnn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fld0v5/e7s_timeline_image/))*
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

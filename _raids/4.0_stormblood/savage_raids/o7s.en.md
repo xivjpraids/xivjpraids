@@ -53,5 +53,5 @@ random, the actual sequence is just one of four possible paths.
 
 ![]({{site.baseurl}}/images/4.0_stormblood/o7s/program_sequence.jpg)
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

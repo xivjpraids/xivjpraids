@@ -13,5 +13,5 @@ permalink: /3.0_heavensward/savage_raids/a5s/
 
 {% include_relative macros/a5s.jp.md %}
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

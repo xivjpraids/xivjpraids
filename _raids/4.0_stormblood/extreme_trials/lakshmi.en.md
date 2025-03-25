@@ -13,5 +13,5 @@ permalink: /4.0_stormblood/extreme_trials/lakshmi/
 
 {% include_relative macros/lakshmi.jp.md %}
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

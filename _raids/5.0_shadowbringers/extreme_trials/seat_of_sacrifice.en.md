@@ -42,5 +42,5 @@ X-formation Meteors, 十-formation NIN KB
 
 </details>
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

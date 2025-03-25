@@ -25,5 +25,5 @@ A more modern approach would be to use `ABCD` to mark cardinal directions, and u
 
 ![]({{site.baseurl}}/images/3.0_heavensward/nidhogg/markers.jpg)
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

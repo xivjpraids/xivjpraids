@@ -9,6 +9,6 @@ permalink: /7.0_dawntrail/savage_raids/m6s/
 
 N.B: This page will be updated to reference Game8 when they publish their article.
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
  

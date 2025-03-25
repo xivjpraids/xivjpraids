@@ -45,5 +45,5 @@ Diamondback gets a lot of use this fight, but some notes:
 - Diamondback **will not** let you survive *Height Error*.
 - Diamondback **will not** let you survive *Ultra Flash*.
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

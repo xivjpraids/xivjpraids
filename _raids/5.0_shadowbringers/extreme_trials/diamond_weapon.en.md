@@ -48,5 +48,5 @@ you can also copy from someone else.
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="zxx" dir="ltr"><a href="https://t.co/8mIPXvbEXn">pic.twitter.com/8mIPXvbEXn</a></p>&mdash; ice (@ice42951647) <a href="https://twitter.com/ice42951647/status/1381993636733181953?ref_src=twsrc%5Etfw">April 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
