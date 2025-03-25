@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sphene EX
+parent: Extreme Trials
 nav_order: 3
 permalink: /7.0_dawntrail/extreme_trials/sphene/
 ---

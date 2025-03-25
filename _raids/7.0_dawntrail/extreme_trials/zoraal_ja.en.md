@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Zoraal Ja EX
+parent: Extreme Trials
 nav_order: 2
 permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 ---

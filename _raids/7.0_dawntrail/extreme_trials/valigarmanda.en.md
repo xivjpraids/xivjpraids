@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Valigarmanda EX
+parent: Extreme Trials
 nav_order: 1
 permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 ---

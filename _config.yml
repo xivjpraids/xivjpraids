@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs@v0.9.0
 plugins:
   - jekyll-seo-tag
 
-title: "XIVJP"
+title: "FFXIV JP Raids"
 description: "Final Fantasy XIV Raid Macros for JP"
 
 favicon_ico: "favicon.ico"
@@ -14,7 +14,7 @@ aux_links:
   "Elemental DC Raid Macros Discord":
     - "https://discord.gg/WEzhVHwAU6"
   "Github":
-    - "https://github.com/Tuufless/xivjp"
+    - "https://github.com/xivjpraids/xivjpraids"
 
 aux_links_new_tab: true
 
@@ -38,7 +38,7 @@ collections:
 just_the_docs:
   collections:
     current:
-      name: 7.1 Crossroads
+      name: 7.2 Seekers of Eternity
     ultimates:
       name: Ultimates
     raids:

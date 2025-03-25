@@ -5,34 +5,33 @@ nav_order: 1
 permalink: /
 ---
 
-# XIVJP
+# FFXIV JP Raids
 
-Welcome to XIVJP! Here, you will find English resources for the strategies used
-in the FFXIV Japanese Datacenters, Elemental, Gaia, Mana, and Meteor.
+Welcome to FFXIVJP Raids! Here, you will find English resources for the
+strategies used in the FFXIV Japanese Datacenters (Elemental, Gaia, Mana, and
+Meteor).
 
 Keep that in mind when looking up other English videos/guides as there will
 likely be differences.
 
-## Current content (Patch 7.1)
+## Current content (Patch 7.2)
 
-The current item level cap is **iLvl 735**.
+The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
-- **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
-- **Zoraal Ja EX** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
-- **Sphene EX** - [The Minstrel's Ballad: Sphene's Burden]({{site.baseurl}}/7.0_dawntrail/extreme_trials/sphene)
+- **Recollection EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/recollection) - *Work in progress*
 
 **Unreal Trials:**
-- **Byakko Unreal** - [The Jade Stoa (Unreal)]({{site.baseurl}}/unreal/byakko)
+- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku) - *Work in progress*
 
 **Savage Raids:**
-- **M1S** - [AAC Light-heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m1s)
-- **M2S** - [AAC Light-heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m2s)
-- **M3S** - [AAC Light-heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m3s)
-- **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
+- **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s) - *Work in progress*
+- **M6S** - [AAC Cruiserweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m6s) - *Work in progress*
+- **M7S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s) - *Work in progress*
+- **M8S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s) - *Work in progress*
 
 **Ultimate Raids:**
-- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru) - *Mana DC's strat*
+- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)
 
 ---
 
@@ -46,14 +45,14 @@ risk.)*
 Download and install the **Macro Mate** plugin, select "New" then
 "Subscription", and enter the following URL:
 ```
-https://raw.githubusercontent.com/Tuufless/XIVJP/main/macromate.yaml
+https://raw.githubusercontent.com/xivpjraids/xivpjraids/main/macromate.yaml
 ```
 
 ---
 
 ## Contributing
 
-This page is built from [an underlying Github repository](https://github.com/Tuufless/FFXIV-Elemental-raid-macros).
+This page is built from [an underlying Github repository](https://github.com/xivpjraids/xivpjraids).
 
 Please feel free to make a pull request if you see any errors, or if you'd like
 to contribute!
