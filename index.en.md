@@ -45,7 +45,7 @@ risk.)*
 Download and install the **Macro Mate** plugin, select "New" then
 "Subscription", and enter the following URL:
 ```
-https://raw.githubusercontent.com/xivpjraids/xivpjraids/main/macromate.yaml
+https://raw.githubusercontent.com/xivjpraids/xivjpraids/refs/heads/main/macromate.yaml
 ```
 
 ---

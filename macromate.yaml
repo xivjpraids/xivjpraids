@@ -1,8 +1,13 @@
-name: "Elemental DC"
+name: "JP DCs"
 macros:
   # ===================
   # = Current Content =
   # ===================
+
+  - name: "Hells' Kier (Unreal)"
+    group: "Current/English"
+    iconId: 26541
+    markdownUrl: _current/macros/suzaku.en.md
 
   - name: "Hells' Kier (Unreal)"
     group: "Current/Japanese"
