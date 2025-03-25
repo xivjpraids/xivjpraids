@@ -26,7 +26,7 @@ below).
 ## English
 
 This is the macro often used in **English** parties. In particular, Firestorms
-of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
+of Asphodelos follows [Tuufless's strat](#firestorms-of-asphodelos).
 
 {% include_relative macros/p3s_tuufless.en.md %}
 
@@ -160,7 +160,7 @@ pairs from the earlier Experimental Gloryplume:
 
 ### Firestorms of Asphodelos (Tuufless)
 
-**English** parties will do ["my" strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/)
+**English** parties will do [Tuufless's strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/)
 instead. The pairings for Firestorms of Asphodelos are different:
 
 - **Healers** + Melee north
