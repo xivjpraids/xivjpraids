@@ -1,7 +1,7 @@
-# XIVJP
+# XIVJP Raids
 
 Hello! This is the underlying Github repository for the
-[XIVJP](https://tuufless.github.io/xivjp/) site.
+[XIVJP Raids](https://xivjpraids.github.io/xivjpraids/) site.
 
 The website is generated via [Jekyll](https://jekyllrb.com/) using [Just-The-Docs](https://just-the-docs.github.io/just-the-docs/)
 as a theme.
@@ -33,7 +33,8 @@ Once Ruby and Jekyll are installed, you can generate the site via the command:
 ```
 bundle exec jekyll serve
 ```
-This will generate the requisite HTML pages under the `_site` folder (note that `_site` is part of `.gitignore`).
+This will generate the requisite HTML pages under the `_site` folder (note that
+`_site` is part of `.gitignore`).
 
 Once the site has been built and running, you can then open it on your browser
 by navigating to `http://localhost:4000/`.
