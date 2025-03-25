@@ -3,6 +3,7 @@ layout: default
 title: Sphene EX
 parent: Extreme Trials
 nav_order: 3
+grand_parent: 7.0 Dawntrail
 permalink: /7.0_dawntrail/extreme_trials/sphene/
 ---
 
