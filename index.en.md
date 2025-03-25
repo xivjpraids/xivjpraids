@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/xivpjraids/xivpjraids/main/macromate.yaml
 
 ## Contributing
 
-This page is built from [an underlying Github repository](https://github.com/xivpjraids/xivpjraids).
+This page is built from [an underlying Github repository](https://github.com/xivjpraids/xivjpraids).
 
 Please feel free to make a pull request if you see any errors, or if you'd like
 to contribute!
