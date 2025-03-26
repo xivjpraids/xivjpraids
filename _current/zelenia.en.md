@@ -7,15 +7,13 @@ permalink: /7.0_dawntrail/extreme_trials/zelenia/
 
 # Recollection (Extreme)
 
-N.B: This page will be updated to reference Game8 when they publish their article.
+[Game8](https://game8.jp/ff14/678687) has gone along with Nukemaru's strat, 
+but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 
-For the time being, Kurapon's guide is going around.
-
-{% include youtube.html id="8Vs-DHcZpUE" %}
+{% include youtube.html id="3bQDC1gdxjo" %}
 
 ## Japanese
 
-*(N.B: The tower positions* do not *match the video guide.)*
 {% include_relative macros/zelenia.jp.md %}
 
 ---
