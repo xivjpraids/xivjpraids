@@ -19,7 +19,7 @@ likely be differences.
 The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
-- **Recollection EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/recollection) - *Work in progress*
+- **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia) - *Work in progress*
 
 **Unreal Trials:**
 - **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku) - *Work in progress*
