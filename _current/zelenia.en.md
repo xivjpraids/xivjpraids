@@ -18,6 +18,27 @@ but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 
 ---
 
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Roseblood: 3rd Bloom]</b> Does the ST necessarily <em>have</em> to take
+  the south tower on the outer tile where the pip is?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No! The rose players colour the inner tiles red, which effectively 
+      <em>extends</em> the tower to include the three inner tiles as well, so
+      the ST can go to the inner tiles to be in melee range and still take the
+      south tower.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
 ## Troubleshooting
 
 <details markdown=block>
