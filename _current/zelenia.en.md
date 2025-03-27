@@ -16,6 +16,13 @@ but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 
 {% include_relative macros/zelenia.jp.md %}
 
+---
+
+## Markers
+
+The markers are just for orientation.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/zelenia/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
