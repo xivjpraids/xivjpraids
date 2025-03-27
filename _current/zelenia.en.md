@@ -49,16 +49,15 @@ The markers are just for orientation.
 
 <details markdown=block>
 <summary>
-  <b>[Roseblood: 3rd Bloom]</b> Does the ST necessarily <em>have</em> to take
-  the south tower on the outer tile where the pip is?
+  <b>[Roseblood: 3rd Bloom]</b> Do the rose tiles expand the towers? Do I have
+  be specifically on the tile with the tower pip?
 </summary>
 <table>
   <tr>
     <td>
-      <p>No! The rose players colour the inner tiles red, which effectively 
-      <em>extends</em> the tower to include the three inner tiles as well, so
-      the ST can go to the inner tiles to be in melee range and still take the
-      south tower.</p>
+      <p>Yes, the rose tiles expand the towers- as long as the rose tile you are
+      standing on is connected to a tower, it will count as you resolving it 
+      (this is also why you cannot connect two towers with rose tiles).</p>
     </td>
   </tr>
 </table>
