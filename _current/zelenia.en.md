@@ -11,6 +11,7 @@ permalink: /7.0_dawntrail/extreme_trials/zelenia/
 but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 
 {% include youtube.html id="3bQDC1gdxjo" %}
+*(English subtitled)*
 
 ---
 
