@@ -12,6 +12,12 @@ but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 
 {% include youtube.html id="3bQDC1gdxjo" %}
 
+---
+
+## English
+
+{% include_relative macros/zelenia.en.md %}
+
 ## Japanese
 
 {% include_relative macros/zelenia.jp.md %}

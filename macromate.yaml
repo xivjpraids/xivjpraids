@@ -4,6 +4,16 @@ macros:
   # = Current Content =
   # ===================
 
+  - name: "Zelenia EX"
+    group: "Current/English"
+    iconId: 26680
+    markdownUrl: _current/macros/zelenia.en.md
+
+  - name: "Zelenia EX"
+    group: "Current/Japanese"
+    iconId: 26680
+    markdownUrl: _current/macros/zelenia.jp.md
+
   - name: "Hells' Kier (Unreal)"
     group: "Current/English"
     iconId: 26541
