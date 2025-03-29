@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs@v0.9.0
 plugins:
   - jekyll-seo-tag
 
-title: "FFXIV JP Raids"
+title: "XIV JP Raids"
 description: "Final Fantasy XIV Raid Macros for JP"
 
 favicon_ico: "favicon.ico"
