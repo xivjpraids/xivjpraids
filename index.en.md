@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# FFXIV JP Raids
+# XIV JP Raids
 
-Welcome to FFXIVJP Raids! Here, you will find English resources for the
+Welcome to XIVJP Raids! Here, you will find English resources for the
 strategies used in the FFXIV Japanese Datacenters (Elemental, Gaia, Mana, and
 Meteor).
 
@@ -56,3 +56,6 @@ This page is built from [an underlying Github repository](https://github.com/xiv
 
 Please feel free to make a pull request if you see any errors, or if you'd like
 to contribute!
+
+<script data-goatcounter="https://xivjpraids.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
