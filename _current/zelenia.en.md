@@ -18,6 +18,7 @@ but swapping in Kurapon's strat for *Roseblood: 3rd Bloom*.
 (Full-size image
 [English](https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/EX4_JP_EN.png), [日本語](https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/EX4_JP_JP.png))   
 
+[Check your position](https://akanabanana.github.io/FFXIVPF2/recollection.html)
 ---
 
 ## English
