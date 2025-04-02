@@ -22,7 +22,7 @@ The current item level cap is **iLvl 765**.
 - **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia)
 
 **Unreal Trials:**
-- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku) - *Work in progress*
+- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku)
 
 **Savage Raids:**
 - **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s) - *Work in progress*
