@@ -13,6 +13,10 @@ permalink: /7.0_dawntrail/savage_raids/m5s/
 
 ---
 
+## English
+
+{% include_relative macros/m5s.en.md %}
+
 ## Japanese
 
 {% include_relative macros/m5s.jp.md %}
