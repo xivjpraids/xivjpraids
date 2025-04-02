@@ -27,7 +27,7 @@ permalink: /7.0_dawntrail/savage_raids/m5s/
 
 The markers are just for orientation.
 
-![]({{site.baseurl}}/images/7.0_dawntrail/zelenia/markers.jpg)
+![]({{site.baseurl}}/images/7.0_dawntrail/m5s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
