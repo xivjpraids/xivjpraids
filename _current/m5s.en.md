@@ -10,6 +10,7 @@ permalink: /7.0_dawntrail/savage_raids/m5s/
 [Game8](https://game8.jp/ff14/680424) has gone ahead with Nukemaru's guide.
 
 {% include youtube.html id="s5CACs9ey9o" %}
+*(English subtitled)*
 
 ---
 
