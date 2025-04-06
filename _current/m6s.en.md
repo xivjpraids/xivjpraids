@@ -7,20 +7,23 @@ permalink: /7.0_dawntrail/savage_raids/m6s/
 
 # AAC Cruiserweight M2 (Savage)
 
-N.B: This page will be updated to reference Game8 when they publish their 
-article.
+[Game8](https://game8.jp/ff14/681086) has gone with the "new FFO" strat, which is essentially Lucrezia's strategy combined with Woops' method to resolve the adds.
+
+{% include youtube.html id="1sldDuI4QU4" %}
 
 ---
 
-In the meantime, [this cheatsheet](https://twitter.com/Dz178Ruca/status/1908573997715120377) seems to be going around:
+## English
 
-![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg)
-
----
+{% include_relative macros/m6s.en.md %}
 
 ## Japanese
 
 {% include_relative macros/m6s.jp.md %}
+
+Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz178Ruca/status/1908573997715120377):
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg)
 
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -24,6 +24,26 @@ macros:
     iconId: 26541
     markdownUrl: _current/macros/suzaku.jp.md
 
+  - name: "AAC Cruiserweight M1 (Savage)"
+    group: "Current/English"
+    iconId: 26457
+    markdownUrl: _current/macros/m5s.en.md
+
+  - name: "AAC Cruiserweight M1 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26457
+    markdownUrl: _current/macros/m5s.jp.md
+
+  - name: "AAC Cruiserweight M2 (Savage)"
+    group: "Current/English"
+    iconId: 26458
+    markdownUrl: _current/macros/m6s.en.md
+
+  - name: "AAC Cruiserweight M2 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26458
+    markdownUrl: _current/macros/m6s.jp.md
+
   # ===================
   # = Ultimates       =
   # ===================
