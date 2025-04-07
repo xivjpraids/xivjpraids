@@ -1,31 +1,32 @@
 ```
-■ Sticky Mousse      | ■ Color Clash (2:2:2:2)
-　　 D3 D4　 　　　 | 　 H1D3　MTD1　STD2
-　H1　☆　H2　　　|　　　　　  H2D4
-　　 D1 D2 　　 　　| 【Color Clash (4:4)】
-※ Use True North　|　MTH1D1D3　STH2D2D4
+■ Sticky Mousse　    | ■ Color Clash ※ Face mid
+　　 D3 D4　　　　　| ◎ 2:2:2:2
+　H1　☆　H2　　　  | 　 H1D3　MTD1　STD2
+　　 D1 D2 　　　　   | 　　　　　 H2D4
+ ※ Use True North　 | ◎ 4:4
+ ※ Tanks under boss |　MTH1D1D3　STH2D2D4
 ■ Desert phase ーーーーーーーーーーーーーーーー
    【Dodge cacti】| 【Quicksand】(True North)
 　　　 Party　　　|　　H1→NW　Party→NE
 　Tank 　　DPS　 |　　  (spare)　 　H2→SE
  ※ Dodge cacti N | ※ If your corner has AoE→SW
-　【Bomb drops】(facing Quicksand)
+   【Bomb drops】※ Face Quicksand
 　　← H1/D3　MT/D1　ST/D2　H2/D4 →
-■ Adds phase ーーーーーーーーーーーーーーーーー
+■ Adds phase (Jabber > Cat > Ray > Mu > Yan) ー
 【1】 MT → Mu (SE)
 　　　STD1D2 → Yan (W)
 　　　H1H2D3D4 → Cat (Gather at W Yan)
-【2】 MT → Bring Mu to NE Ray
+【2】 MT → Mu (S, bring to NE Ray)
 　　　H2 → Ray (NE)
 　　　D3 → Ray (NW)　　　　※ Puddles N→S
 【3】 MT → Jabberwock + Mu (W)
 　　　ST → Yan (N, bring NE)
 　　　Bound Healer → SE　   ※ Stun：MT>D1>D2
-【4】 MT → Mu (SW, bring S)
+【4】 MT → Mu (S, bring to SW Ray)
 　　　ST → Jabberwock + Yan (N)
-　　　Bound Healer → S　　  
-　　　D3 → W Ray　　　　　  ※ Puddles S→N
-　　　D4 → E Ray　　　　　　※ Stun：ST>D1>D2
+　　　Bound Healer → S
+　　　D3 → SW Ray　　　　　※ Puddles S→N
+　　　D4 → SE Ray　　　　　  ※ Stun：ST>D1>D2
 ■ River phase ーーーーー■ Magma phase ーー
 【Fire stacks】　　　　|　D3D4　(N)　H1H2
 　Near: MTH1D1D2　 |　※※※※※※※※※※
