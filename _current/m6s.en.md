@@ -25,6 +25,13 @@ Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz17
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg)
 
+---
+
+## Timeline
+
+![](https://preview.redd.it/spoiler-7-2-m6s-timeline-v0-m1ror2mtwgse1.png?width=1790&format=png&auto=webp&s=383e6a94633cc390cad535c97a3e92dd6314c663)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1jp9p2z/spoiler_72_m6s_timeline/))*
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
  
