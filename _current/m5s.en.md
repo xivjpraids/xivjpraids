@@ -56,5 +56,22 @@ The markers are just for orientation.
 ![](https://preview.redd.it/spoiler-7-2-m5s-timeline-v0-hotx831qwgse1.png?width=1785&format=png&auto=webp&s=8726efbc0d72442e6a194942f09056a17573a1f9)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1jp2os9/spoiler_72_m5s_timeline/))*
 
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this encounter lowers a player's damage by 
+      <b>25%</b>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
