@@ -7,7 +7,14 @@ permalink: /7.0_dawntrail/savage_raids/m7s/
 
 # AAC Cruiserweight M3 (Savage)
 
-N.B: This page will be updated to reference Game8 when they publish their article.
+[Game8](https://game8.jp/ff14/681274) has gone along with [Ponikone's strat](https://jp.finalfantasyxiv.com/lodestone/character/13307902/blog/5542016/) 
+(who is part of Nukemaru's static) for this encounter.
+
+---
+
+## Japanese
+
+{% include_relative macros/m7s.jp.md %}
 
 ---
 
