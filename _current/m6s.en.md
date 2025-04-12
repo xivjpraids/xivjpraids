@@ -7,11 +7,16 @@ permalink: /7.0_dawntrail/savage_raids/m6s/
 
 # AAC Cruiserweight M2 (Savage)
 
-[Game8](https://game8.jp/ff14/681086) has gone with the "new FFO" strat, which is essentially Lucrezia's strategy combined with Woops' method to resolve the adds.
+[Game8](https://game8.jp/ff14/681086) has gone with the "new FFO" strat, which is
+essentially Lucrezia's strategy combined with Woops' method to resolve the adds.
 
 {% include youtube.html id="1sldDuI4QU4" %}
 
 ---
+
+N.B: Game8 updated the Magma positions to pair one ranged DPS with one healer on each
+island instead of having both healers on the same island. The macros below reflect this
+change.
 
 ## English
 
