@@ -27,19 +27,19 @@
 　　　Bound Healer → S
 　　　D3 → SW Ray　　　　　※ Puddles S→N
 　　　D4 → SE Ray　　　　　  ※ Stun：ST>D1>D2
-■ River phase ーーーーー■ Magma phase ーー
+■ River phase ーーーーー■ Magma phase ーーー
 【Fire stacks】　　　　|　D3H1　(N)　D4H2
 　Near: MTH1D1D2　 |　※※※※※※※※※※
 　　Far: STH2D3D4 　 |　　　 MT　　ST
 【Lightning spread】  |　　　 D1　 　D2
-　D3 MT D4　　　　　 |【Towers #2】(Face mid)
-　H1　　H2　　　　　 | ◎ 4/2/2: Rotate CW/CCW
-　D1 ST D2　　　　　   |　so melee have 4 towers
-【Thundercloud】　　 |　　← D1MTSTD2 →
-　←T/H   Party   DPS→ |　　　← D3H1 →
-   (Use cloud as North) |　　　← D4H2 →　 　
+　D3 MT D4　　　　　 | ※ Healers bait stacks
+　H1　　H2　　　　　 |【Towers #2】(Face mid)
+　D1 ST D2　　　　　  | ◎ 4/2/2: Rotate CW/CCW
+【Thundercloud】　　 |　so melee have 4 towers
+　←T/H   Party   DPS→ |　　← D1MTSTD2 →
+   (Use cloud as North) |　　　← D3H1 →
+　　　　　　　　　　　  |　　　← D4H2 →
 　　　　　　　　　　　  | ◎ 8/0/0:
 　　　　　　　　　　　  |　　   H2 D3 D4
 　　　　　　　　　　　  |　　H1 D1 MT ST  D2
-※ Healers bait stacks
 ```
