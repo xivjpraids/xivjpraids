@@ -15,15 +15,16 @@
 　D1　 　ST　 　H2　 　D3　　 MTD1:①　STD2:②
 ④　　D2　 　⑤　 　D4　 　⑥　H1D3:③　H2D4:⑤
 【Debris Deathmatch】
-　　　 MT/D3　　　　※ Petrification LOS: Dodge NW/SE
-　　　　　　　　　　　　Hit the adds after petrify
-H1/D1　★　H2/D2
-　　　　
+　　　 MT/D3　　　　※ Petrify LOS: Dodge NW/SE
+H1/D1　★　H2/D2　　Hit the adds after petrify
 　 　 　ST/D4
 【Sinister Seeds #2】※ Melee gather NW
-Melee AOE: CW from NW→SW (Range Seeds) Edge cardinals, Stack outer SW 
-Range AOE: Along edge→center (Melee Seeds) Inner cardinals, Stack inner SW
-【Stoneringer 2 + Seeds】※ 1st time True North, 2nd time Boss-relative
+Melee AOE: CW from NW→SW, Stack outer SW 
+Range AOE: Along edge→center, Stack inner SW
+Melee Seeds: Inner cardinals, Stack inner SW
+Range Seeds: Edge cardinals, Stack outer SW 
+【Stoneringer 2: Stoneringers + Strange Seeds】
+※ 1st time True North, 2nd time Boss-relative
 (1st) 　 　　　　　　 ｜(2nd)　　  ★
 MT/D3 　　ST/D4　 ｜　MT/D1　 　ST/D2
 　 　　　★ 　 　 　　 ｜
