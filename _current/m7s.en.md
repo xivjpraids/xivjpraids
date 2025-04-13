@@ -14,9 +14,39 @@ permalink: /7.0_dawntrail/savage_raids/m7s/
 
 ---
 
+## English
+
+{% include_relative macros/m7s.en.md %}
+
 ## Japanese
 
 {% include_relative macros/m7s.jp.md %}
+
+---
+
+## Markers
+
+The `ABCD` markers are for melee Sinister Seeds. The `1234` markers are for Strange Seeds.
+
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"M7S",
+  "MapID":1024,
+  "A":{"X":100.0,"Y":-200.0,"Z":-5.0,"ID":0,"Active":true},
+  "B":{"X":110.0,"Y":-200.0,"Z":5.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":-200.0,"Z":15.0,"ID":2,"Active":true},
+  "D":{"X":90.0,"Y":-200.0,"Z":5.0,"ID":3,"Active":true},
+  "One":{"X":90.0,"Y":-200.0,"Z":-5.0,"ID":4,"Active":true},
+  "Two":{"X":110.0,"Y":-200.0,"Z":-5.0,"ID":5,"Active":true},
+  "Three":{"X":110.0,"Y":-200.0,"Z":15.0,"ID":6,"Active":true},
+  "Four":{"X":90.0,"Y":-200.0,"Z":15.0,"ID":7,"Active":true}
+}
+```
+
+</details>
 
 ---
 
