@@ -26,7 +26,7 @@ change.
 
 {% include_relative macros/m6s.jp.md %}
 
-Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz178Ruca/status/1908573997715120377):
+Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz178Ruca/status/1910309134504988805):
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg)
 
