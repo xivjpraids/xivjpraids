@@ -12,6 +12,10 @@ permalink: /7.0_dawntrail/savage_raids/m7s/
 
 {% include youtube.html id="SqqryOTBT-I" %}
 
+### Things to check on Party Finder
+
+- Check the strat being used for "Thorny Deathmatch" in P2
+
 ---
 
 ## English
@@ -47,6 +51,22 @@ The `ABCD` markers are for melee Sinister Seeds. The `1234` markers are for Stra
 ```
 
 </details>
+
+---
+
+## Thorny Deathmatch
+
+There are currently 2 popular strats circulating in PF; "Ishia strat (いしあ式)", which is being used by Game8, and "Sari strat (さり式)".
+
+### Ishia strat (いしあ式)
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr">DPS <a href="https://t.co/T8VELmB9pF">pic.twitter.com/T8VELmB9pF</a></p>&mdash; いしあ (@IshiaKun) <a href="https://twitter.com/IshiaKun/status/1907574527867105618?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/xE-q2Xqib9AGETwp).
+
+### Sari strat (さり式)
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">攻略で使用したソーンデスマッチ・ビルディングのほぼuptime処理です。デスマッチはD3D4固定。<br>遠い角を使わないので近接遠隔どちらも殴りやすく、移動距離がかなり短いのが大きなメリットです。ついでに完全安置あります。 <a href="https://t.co/3wlJfYfSPS">pic.twitter.com/3wlJfYfSPS</a></p>&mdash; さり (@sf_snff) <a href="https://twitter.com/sf_snff/status/1909199349940187478?ref_src=twsrc%5Etfw">April 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ---
 

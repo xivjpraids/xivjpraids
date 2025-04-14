@@ -58,6 +58,15 @@ The markers are just for orientation.
 
 ---
 
+## Desert Cactus
+
+There are only 4 patterns in which the cacti can spawn during the Desert phase, with 6 waves each:
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cactus_cheatsheet.jpg)
+*(Credit: [X: @stomp0920](https://twitter.com/stomp0920/status/1907270002538951030))*
+
+---
+
 ## Timeline
 
 ![](https://preview.redd.it/spoiler-7-2-m6s-timeline-v0-m1ror2mtwgse1.png?width=1790&format=png&auto=webp&s=383e6a94633cc390cad535c97a3e92dd6314c663)
