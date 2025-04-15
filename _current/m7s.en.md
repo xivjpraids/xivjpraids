@@ -32,6 +32,7 @@ permalink: /7.0_dawntrail/savage_raids/m7s/
 
 The `ABCD` markers are for melee Sinister Seeds. The `1234` markers are for Strange Seeds.
 
+![]({{site.baseurl}}/images/7.0_dawntrail/m7s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

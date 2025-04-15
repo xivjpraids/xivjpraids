@@ -24,7 +24,7 @@ Range AOE: Along edge→center, Stack inner SW
 Melee Seeds: Inner cardinals, Stack inner SW
 Range Seeds: Edge cardinals, Stack outer SW 
 【Stoneringer 2: Stoneringers + Strange Seeds】
-※ 1st time True North, 2nd time Boss-relative
+※ 1st: True North, 2nd: Boss-relative after Lariat
 (1st) 　 　　　　　　 ｜(2nd)　　  ★
 MT/D3 　　ST/D4　 ｜　MT/D1　 　ST/D2
 　 　　　★ 　 　 　　 ｜
