@@ -9,6 +9,10 @@ permalink: /7.0_dawntrail/savage_raids/m8s/
 
 N.B: This page will be updated to reference Game8 when they publish their article.
 
+In the meantime, Nukemaru has published his guide to the first half of the encounter:
+
+{% include youtube.html id="Pqxs9VBKn74" %}
+
 ---
 
 ## Timeline
