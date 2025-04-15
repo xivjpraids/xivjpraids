@@ -67,7 +67,7 @@ Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/x
 
 ### Sari strat (さり式)
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">攻略で使用したソーンデスマッチ・ビルディングのほぼuptime処理です。デスマッチはD3D4固定。<br>遠い角を使わないので近接遠隔どちらも殴りやすく、移動距離がかなり短いのが大きなメリットです。ついでに完全安置あります。 <a href="https://t.co/3wlJfYfSPS">pic.twitter.com/3wlJfYfSPS</a></p>&mdash; さり (@sf_snff) <a href="https://twitter.com/sf_snff/status/1909199349940187478?ref_src=twsrc%5Etfw">April 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">D4のデスマッチ3が気になる場合は2,4番目を図の場所に捨ててください。こちらでも処理可能です <a href="https://t.co/Fv2H1LBMEQ">pic.twitter.com/Fv2H1LBMEQ</a></p>&mdash; さり (@sf_snff) <a href="https://twitter.com/sf_snff/status/1911437620619411542?ref_src=twsrc%5Etfw">April 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ---
 
