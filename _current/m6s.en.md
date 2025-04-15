@@ -36,6 +36,7 @@ Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz17
 
 The markers are just for orientation.
 
+![]({{site.baseurl}}/images/7.0_dawntrail/m6s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
