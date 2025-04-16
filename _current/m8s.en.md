@@ -19,6 +19,12 @@ In the meantime, Nukemaru has published his guide to the first half of the encou
 
 ---
 
+## Japanese
+
+{% include_relative macros/m8s.jp.md %}
+
+---
+
 ## Timeline
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczPTjyeP9Ef5LVcMUp_XufrE5V-6durmYTTvUlUN9Vkv_x86sYnZ2-iBwHY4wfeLFlZpRlcGHvyMoHxL58ovKqO6sj-R91yBfTFIu44-NdAvHStP4fd6jLP8xaCmwiHvcfikx8OqAVXyLDSLeACilAc1=w1597-h911-s-no-gm?authuser=0)
