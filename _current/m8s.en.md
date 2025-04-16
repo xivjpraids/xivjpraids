@@ -7,7 +7,11 @@ permalink: /7.0_dawntrail/savage_raids/m8s/
 
 # AAC Cruiserweight M4 (Savage)
 
-N.B: This page will be updated to reference Game8 when they publish their article.
+Game8.jp has gone along with Nukemaru's strat. Explanation has been split into two
+parts, even though this is a single encounter with no checkpoint.
+
+- [Part 1](https://game8.jp/ff14/681843)
+- Part 2
 
 In the meantime, Nukemaru has published his guide to the first half of the encounter:
 
