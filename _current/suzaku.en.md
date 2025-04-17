@@ -48,7 +48,5 @@ The markers are just for orientation.
 
 </details>
 
----
-
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
