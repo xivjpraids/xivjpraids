@@ -1,19 +1,19 @@
 ```
 【Sinister Seeds #1】
-　(Seeds)　　　　　　 (Eruptions)
-　D3/MT　　 ST/D4 　Melee: inner S → Up → Center → Down
-　 　 　 　 ★ 　 　　 　 Ranged: DPS N, Healer S → E/W → Center
-　H1/D1　　 D2/H2　(4:4) MT: West , ST: East
-【Pulp Smash】　　 ｜ 【Glower Power】
-※ Boss-relative　 　 ｜ D1　　★　　D2
-　　D3　 MT　 D4　 ｜ 　 MT　　　ST
-　　H1 　 ★ 　 H2　 ｜ H1 　 　 　 　H2
-　　D1 　 ST 　D2　 ｜ 　 D3　　　D4
-【Thorny Deathmatch (Ishia strat)】
-(Odd) 3rd safe spot (1,3 AOE) Melee DPS:④  TH:②  Ranged DPS:⑥
-①　　MT　 　②　 　H1　 　③　(Pairs)
-　D1　 　ST　 　H2　 　D3　　 MTD1:①　STD2:②
-④　　D2　 　⑤　 　D4　 　⑥　H1D3:③　H2D4:⑤
+【Seeds】D3/MT　　 ST/D4　 |【Eruptions】Melee: inner S → Up → Center → Down
+　　 　　　　　　　★ 　　 　 　 | Ranged: DPS N, Healer S → E/W → Center
+　　　　　H1/D1　　 D2/H2　 | (4:4) MT: West , ST: East
+【Glower Power】　→　D1　★　D2
+ーーーーーーーーーーー 　 MT　　　ST
+【Pulp Smash】　　　|　H1　 　　H2
+Boss-relative spread   |　D3　 　　D4
+【Thorny Deathmatch (Sari strat)】 Thorns: East/West D3, South D4
+①　　★　　②　　　　　③　◎ Seed positions
+　　　S　　　　  S　　　　     D1D2: Odd① Even a
+　a　　　 b 　 　　　　 c　　 TH: Odd② Even b
+　d←D3 Even safe spot　　 D3: Odd③ Even c / Odd④ Even a
+　　　　　　　　　 e　　　　 D4: Odd⑤ Even e
+④　　　　　⑤　　　　　　　◎ Pairs: MTD1①/STD2②/D3H1③or④/D4H2⑤
 【Debris Deathmatch】
 　　　 MT/D3　　　　※ Petrify LOS: Dodge NW/SE
 H1/D1　★　H2/D2　　Hit the adds after petrify
