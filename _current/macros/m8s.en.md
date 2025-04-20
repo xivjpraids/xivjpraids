@@ -1,5 +1,5 @@
 ```
-【Stonefang】|【Windfang/Millenial Decay IQ6000 strat】
+【Stonefang】|【Windfang/Millenial Decay (IQ6000 strat)】
 　 　MTD4　　| MT/D3　　H2/D4
 　D3　　　H2 | 　　　　★　　　　 ※ Rotate CW if needed
 　H1　　　D2 | H1/D1　 　ST /D2
@@ -16,7 +16,7 @@ MT/D3　 (Stack) 　H2/D4
 　　　H1/D1　ST/D2
 【Quake III/1-3 Ultraviolent ray】Blue Marker: N ⇒ Stay ⇒ S
 MT　　　 　★　　　　ST
-D3　　　　　　　　　D4 【Twinbite】W:MT E:ST
+D3　　　　　　　　　D4 【Twinbite】W: MT　E: ST
 　D1　　　　　 　　D2　【Elemental Purge (No Invul)】
 　 H1　　South  　H2　　Stack: Platform next to wind tank
 【Two-fold Tempest】　　　　Tether　Proximity
