@@ -11,7 +11,7 @@ Game8.jp has gone along with Nukemaru's strat. Explanation has been split into t
 parts, even though this is a single encounter with no checkpoint.
 
 - [Part 1](https://game8.jp/ff14/681843)
-- Part 2
+- [Part 2](https://game8.jp/ff14/681846)
 
 In the meantime, Nukemaru has published his guide to the first half of the encounter:
 
