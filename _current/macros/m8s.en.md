@@ -14,12 +14,12 @@ LP1　 　　LP2　| 　 LP1　  LP2
 【Beckon Moonlight】
 MT/D3　 (Stack) 　H2/D4
 　　　H1/D1　ST/D2
-【Quake III/1-3 Ultraviolent ray】Blue Marker: N ⇒ Stay ⇒ S
+【Quake III/1-3 Ultraviolent Ray】Blue Marker: N ⇒ Stay ⇒ S
 MT　　　 　★　　　　ST
 D3　　　　　　　　　D4 【Twinbite】W: MT　E: ST
 　D1　　　　　 　　D2　【Elemental Purge (No Invul)】
 　 H1　　South  　H2　　Stack: Platform next to wind tank
-【Two-fold Tempest】　　　　Tether　Proximity
+【Twofold Tempest】　　　　Tether　Proximity
 　D1D3　 　 D2D4  MT(1st)↓ MTH1　 D2D4
 　　　　　　　　　　　　　　 　D1D3　 ST H2
 MT H1 　 ★ 　 ST H2 　 　　 　D2D4　 MTH1
