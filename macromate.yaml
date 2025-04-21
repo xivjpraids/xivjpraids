@@ -54,6 +54,16 @@ macros:
     iconId: 26459
     markdownUrl: _current/macros/m7s.jp.md
 
+  - name: "AAC Cruiserweight M4 (Savage)"
+    group: "Current/English"
+    iconId: 26460
+    markdownUrl: _current/macros/m8s.en.md
+
+  - name: "AAC Cruiserweight M4 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26460
+    markdownUrl: _current/macros/m8s.jp.md
+
   # ===================
   # = Ultimates       =
   # ===================
