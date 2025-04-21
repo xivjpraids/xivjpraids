@@ -23,6 +23,10 @@ Nukemaru has also split his guide into two parts:
 
 {% include youtube.html id="HnFCYfJ-HaM" %}
 
+### Things to check on Party Finder
+
+- Check the strat being used for "Beckon Moonlight" in P1
+
 ---
 
 ## English
@@ -83,6 +87,22 @@ The `C` marker denotes the True South platform in P2.
 ```
 
 </details>
+
+---
+
+## Beckon Moonlight
+
+There are currently 2 popular strats circulating in PF; the default used by Game8 (and by extension, Nukemaru), and "1 Quad strat".
+
+### 1 Quad strat
+
+```
+【Beckon Moonlight (1 Quad)】
+　　MT/D1　ST/D2
+H1/D3　(Stack)　H2/D4
+```
+
+Refer to [this raidplan](https://raidplan.io/plan/WFsLBku1C9Iyxneu).
 
 ---
 
