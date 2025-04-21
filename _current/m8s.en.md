@@ -13,9 +13,15 @@ parts, even though this is a single encounter with no checkpoint.
 - [Part 1](https://game8.jp/ff14/681843)
 - [Part 2](https://game8.jp/ff14/681846)
 
-In the meantime, Nukemaru has published his guide to the first half of the encounter:
+Nukemaru has also split his guide into two parts:
+
+**First half:**
 
 {% include youtube.html id="Pqxs9VBKn74" %}
+
+**Second half:**
+
+{% include youtube.html id="HnFCYfJ-HaM" %}
 
 ---
 
