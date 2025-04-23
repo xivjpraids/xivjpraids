@@ -73,5 +73,16 @@ fight?</summary>
 </table>
 </details>
 
+<details markdown=block>
+<summary><b>[Perfect Groove]</b> What is the damage bonus you get from this buff?</summary>
+<table>
+  <tr>
+    <td>
+      <p>Players with the <em>Perfect Groove</em> buff get a 3% increase to their damage.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
