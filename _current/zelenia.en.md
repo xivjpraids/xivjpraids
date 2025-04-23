@@ -94,9 +94,11 @@ The markers are just for orientation.
 <table>
   <tr>
     <td>
-      <p>The four rose players connect the red tiles together south.</p>
+      <p>The four rose players make one big connected region with the red tiles. This
+      also gives them a <em>Magic Vulnerability Up</em> debuff.</p>
       <p>If one of the non-rose players hit this connected region with their 
-      AoE, it also hits the four rose players, killing them.</p>
+      AoE <em>(Alexandrian Lightning III)</em>, it also hits the four rose players,
+      killing them.</p>
     </td>
   </tr>
 </table>
