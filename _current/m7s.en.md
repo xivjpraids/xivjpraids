@@ -91,7 +91,7 @@ The `1234` markers are for Strange Seeds in P3.
   "One":{"X":90.0,"Y":-200.0,"Z":-5.0,"ID":4,"Active":true},
   "Two":{"X":110.0,"Y":-200.0,"Z":-5.0,"ID":5,"Active":true},
   "Three":{"X":110.0,"Y":-200.0,"Z":15.0,"ID":6,"Active":true},
-  "Four":{"X":90.0,"Y":-200.0,"Z":15.0,"ID":7,"Active":true}}
+  "Four":{"X":90.0,"Y":-200.0,"Z":15.0,"ID":7,"Active":true}
 }
 ```
 
