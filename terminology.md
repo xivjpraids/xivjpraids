@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Raid Terminology
+title: Terminology
 nav_order: 2
 has_children: false
 has_toc: false
 permalink: /terminology/
 ---
 
-# Raid Terminology
+# Terminology
 
 Every game/community develops their own terminology that may be foreign for
 newer players, yet alone terms in another language.
@@ -22,10 +22,11 @@ newer players, yet alone terms in another language.
     <td>
       <p><a href="#first-time初見">First time/初見</a></p>
       <p><a href="#progpractice練習">Prog/Practice/練習</a></p>
-      <p><a href="#stabilize安定">Stabilize/安定</a></p>
+      <p><a href="#cleanup安定">Cleanup/安定</a></p>
       <p><a href="#aim-to-clear-a2cクリ目">Aim to clear (A2C)/クリ目</a></p>
       <p><a href="#clear-for-one-c41">Clear for one (C41)</a></p>
       <p><a href="#reclearweekly-clear消化">Reclear/Weekly clear/消化</a></p>
+      <p><a href="#bookpage-run断章">Book/Page run/断章</a></p>
       <p><a href="#parse火力詰め">Parse/(火力)詰め</a></p>
     </td>
     <td>
@@ -75,7 +76,7 @@ You will often also see:
   leader will initiate a Ready Check to see how many people want to continue
   (継続RC). If *anybody* replies "No", the party disbands.
 
-### Stabilize/安定
+### Cleanup/安定
 
 This is an extension of practice, except you are expected to have reached the
 mechanic before and the aim is to resolve the mechanic consistently.
@@ -115,6 +116,14 @@ wipes, or after 30 minutes.
 - **3滅解散 (disband after three wipes):** As the name implies, if the party wipes
   three times without clearing, it's assumed that the party cannot clear and
   disbands.
+
+### Book/Page run/断章
+
+Only applicable to Savage- this is a (re)clear party, but *without* any loot, so players
+who have cleared for the week are welcome to join.
+
+You may sometimes see "箱あれば…", which means "if there is a coffer (loot)"; for example,
+箱あれば左から取り抜け (if there is loot, lot left-to-right and drop).
 
 ### Parse/(火力)詰め
 
