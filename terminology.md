@@ -149,7 +149,7 @@ indicate a taken position (e.g: D1 taken/D1〆).
   maintank, and sometimes "whoever happens to be tanking the boss at the time".
   As a general rule, if where the boss faces is relevant, then "MT" will refer
   to whoever is currently tanking the boss.
-- Other regions (NA/EU/AU) will call the ST the OT instead (off-tank).
+- Other regions (NA/EU/OCE) will call the ST the OT instead (off-tank).
 
 ### Healers
 
