@@ -73,6 +73,26 @@ There are only 4 patterns in which the cacti can spawn during the Desert phase, 
 ![](https://preview.redd.it/spoiler-7-2-m6s-timeline-v0-m1ror2mtwgse1.png?width=1790&format=png&auto=webp&s=383e6a94633cc390cad535c97a3e92dd6314c663)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1jp9p2z/spoiler_72_m6s_timeline/))*
 
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Limit Break]</b> When should I LB to hit the adds before the Gimme Cat takes the LB gauge away?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Sugar Riot will summon puddings that pulse five times before transforming into
+      the respective adds.</p>
+      <p>Start the LB after the <em>fourth pulse</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
  
