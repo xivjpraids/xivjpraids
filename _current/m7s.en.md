@@ -45,6 +45,12 @@ combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187
 
 ## Markers
 
+Note that the markers on the third map can only be manually placed once the 
+encounter has been cleared.
+
+If you haven't cleared the fight, you will need to copy the markers from
+someone else.
+
 ### Base
 
 The `ABCD` markers are for melee Sinister Seeds in P3.
