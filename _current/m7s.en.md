@@ -9,13 +9,13 @@ permalink: /7.0_dawntrail/savage_raids/m7s/
 
 [Game8](https://game8.jp/ff14/681274) has gone along with [Ponikone's strat](https://jp.finalfantasyxiv.com/lodestone/character/13307902/blog/5542016/) 
 (who is part of Nukemaru's static) as the base, 
-combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187478) for "Thorny Deathmatch" (in P2) for this encounter.
+combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187478) for *Demolition Deathmatch* (in P2) for this encounter.
 
 {% include youtube.html id="EvPn0UHMevk" %}
 
 ### Things to check on Party Finder
 
-- Check the strat being used for "Thorny Deathmatch" in P2
+- Check the strat being used for *Demolition Deathmatch* in P2
 
 ---
 
@@ -77,10 +77,10 @@ The `1234` markers are for Strange Seeds in P3.
 
 </details>
 
-### Sari Thorny Deathmatch
+### Sari's Demolition Deathmatch
 
 The `AC` markers are for orientation in P3.
-The `BD` markers are for the 2/4 AOE positions for T/H during Thorny Deathmatch in P2.
+The `BD` markers are for the 2/4 AOE positions for T/H during *Demolition Deathmatch* in P2.
 The `1234` markers are for Strange Seeds in P3.
 
 <details markdown=block>
@@ -105,7 +105,7 @@ The `1234` markers are for Strange Seeds in P3.
 
 ---
 
-## Thorny Deathmatch
+## Demolition Deathmatch
 
 There are currently 2 popular strats circulating in PF; "Sari strat (さり式)", which is currently being used by Game8, and "Ishia strat (いしあ式)".
 
