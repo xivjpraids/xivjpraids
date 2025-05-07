@@ -1,32 +1,41 @@
 ```
-【Sinister Seeds #1】
-【Seeds】D3/MT　　 ST/D4　 |【Eruptions】Melee: inner S → Up → Center → Down
-　　 　　　　　　　★ 　　 　 　 | Ranged: DPS N, Healer S → E/W → Center
-　　　　　H1/D1　　 D2/H2　 | (4:4) MT: West , ST: East
-【Glower Power】　→　D1　★　D2
-ーーーーーーーーーーー 　 MT　　　ST
-【Pulp Smash】　　　|　H1　 　　H2
-Boss-relative spread   |　D3　 　　D4
-【Thorny Deathmatch (Sari strat)】 Thorns: D3 E/W, D4 South
-①　　★　　②　　　　　③　(Seed positions)
-　　　S　　　　  S　　　　     D1D2: Odd① Even a
-　a　　　 b 　 　　　　 c　　 TH: Odd② Even b
-　d←D3 Even safe spot　　 D3: Odd③ Even c / Odd④ Even a
-　　　　　　　　　 e　　　　 D4: Odd⑤ Even e
-④　　　　　⑤　　　　　　　(Pairs) MTD1①/STD2②/D3H1③or④/D4H2⑤
+【Sinister Seeds #1】　　【Glower Power】
+　■ Seeds　　　　　　　　　  D1　★　D2
+　　D3/MT　　 ST/D4　　　　MT　　　ST
+　　　　　　★　　　　　　　　H1　　　H2
+　　H1/D1　　D2/H2　　　　D3　　　D4
+　■ Melee AoE
+　　Inner SW/SE → Up → Left/Right → Down
+　■ Ranged AoE
+　　D3D4：NW/NE　　H1H2：SW/SE
+　　Corner → Move along N/S edge → Center
+　■ 4:4 stacks
+　　MT-group: West, ST-group: East
+【Thorny Deathmatch (Sari strat)】
+　①ーー★ーー②ーーーーー③　■ Pair Stacks  　
+　｜　　　　　　　　　　　｜　　MTD1：①
+　｜ a　　　 b 　　　　　c  ｜　　  STD2：②
+　｜ d　　　　　　　　　　｜　　 H1D3：③ or ④ 
+　｜　　　　　　　　e　　 ｜　 　H2D4：⑤ 
+　④ーーーーー⑤ーーーーー+　　　
+　■ T/H　　Odd：②　　　 Even：b
+　■ D1D2　Odd：①　　　 Even：a
+　■ D3　 　 Odd：③ or ④   Even：c or a/d
+　■ D4　 　 Odd：⑤　　　 Even：e
 【Debris Deathmatch】
-　　　 MT/D3　　　　※ Petrify LOS: Dodge NW/SE
-H1/D1　★　H2/D2　　Hit the adds after petrify
-　 　 　ST/D4
+　　　　 MT/D3　　　　※ Petrify: Hide NW/SE
+　H1/D1　★　H2/D2   ※ Hit adds after petrify
+　 　　 　ST/D4
 【Sinister Seeds #2】※ Melee gather NW
-Melee AOE: CW from NW→SW, Stack outer SW 
-Range AOE: Along edge→center, Stack inner SW
-Melee Seeds: Inner cardinals, Stack inner SW
-Range Seeds: Edge cardinals, Stack outer SW 
+　　Melee AoE：Drop CW from NW → SW
+　Melee Seeds：Cardinals, 2 tiles from edge
+　　Range AoE：Drop along edge
+　Range Seeds：Cardinals, at edge
+　　　　　Stack：SW
 【Stoneringer 2: Stoneringers + Strange Seeds】
-※ 1st: True North, 2nd: Boss-relative after Lariat
-(1st) 　 　　　　　　 ｜(2nd)　　  ★
-MT/D3 　　ST/D4　 ｜　MT/D1　 　ST/D2
-　 　　　★ 　 　 　　 ｜
-H1/D1 　　H2/D2　｜　H1/D3　 　H2/D4
+　1st: True North　　 | 2nd: After Lariat
+　　　　　　　　　　   ｜　　  　 (BOSS)
+　MT/D3　　ST/D4　｜　MT/D1　 　ST/D2
+　　　   (BOSS)　　　  ｜
+　H1/D1　　H2/D2   ｜　H1/D3　 　H2/D4
 ```
