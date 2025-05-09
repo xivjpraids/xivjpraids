@@ -17,6 +17,15 @@ combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187
 
 - Check the strat being used for *Demolition Deathmatch* in P2
 
+### Things to note
+
+A PLD *cannot Hallowed Ground* the first *Smash Here/There* in P1 and the first
+*Slaminator* in P3 (typically both invulned by the MT).
+
+If you have a PLD MT, swap the invulns around (i.e: ST invulns the first 
+*Smash Here/There* and first *Slaminator*, then the PLD MT invulns the second 
+*Smash Here/There* and second *Slaminator*).
+
 ---
 
 ## English
