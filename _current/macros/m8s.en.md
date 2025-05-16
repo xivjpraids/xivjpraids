@@ -1,32 +1,32 @@
 ```
-【Stonefang】|【Windfang/Millenial Decay (IQ6000 strat)】
-　 　MTD4　　| MT/D3　　H2/D4
-　D3　　　H2 | 　　　　★　　　　 ※ Rotate CW if needed
-　H1　　　D2 | H1/D1　 　ST /D2
-　 　D1 ST　　| (While rotating) Front: Melee, N/S: Ranged, Back: Free
-【Eminent Reign】【Revolutionary Reign】
-MT　　　　 ST　|　　　 ★
-　　　 ★ 　　 　 | MT 　 　 　 　 ST
-LP1　 　　LP2　| 　 LP1　  LP2
-【Terrestrial Rage】
-①Spreads ⇒ Rotate into safe spot (Stack) Center
-②Spreads ⇒ Rotate CW if needed (Stack) North
-【Beckon Moonlight】
-MT/D3　 (Stack) 　H2/D4
-　　　H1/D1　ST/D2
-【Quake III/1-3 Ultraviolent Ray】Blue Marker: N ⇒ Stay ⇒ S
-MT　　　 　★　　　　ST
-D3　　　　　　　　　D4 【Twinbite】W: MT　E: ST
-　D1　　　　　 　　D2　【Elemental Purge (No Invul)】
-　 H1　　South  　H2　　Stack: Platform next to wind tank
-【Twofold Tempest】　　　　Tether　Proximity
-　D1D3　 　 D2D4  MT(1st)↓ MTH1　 D2D4
-　　　　　　　　　　　　　　 　D1D3　 ST H2
-MT H1 　 ★ 　 ST H2 　 　　 　D2D4　 MTH1
-　　　　South　　　  ST(1st)↑ ST H2 　D1D3
+【Stonefang】  ｜【Windfang/Millenial Decay】
+　　  MTD4　　 ｜　MT/D3　　H2/D4
+　D3　　　H2   ｜ 　　　　　★　　　　 
+　H1　　　D2   ｜ 　H1/D1　 　ST /D2
+　　  D1 ST　　 ｜ ※ Rotate CW if needed
+【Millenial Decay (while rotating)】
+　Melee AoE：Front　Ranged AoE：N/S
+　Nothing：Back
+【Eminent Reign】｜【Revolutionary Reign】
+　　MT　　ST　　　｜　　　　　★
+　　　　★　　　　   ｜ 　　MT　　　　ST
+　LP1　 　　LP2　   ｜　　　LP1　LP2
+【Terrestrial Rage】　  ｜【Beckon Moonlight】
+① Windfang, stack mid｜MT/D3   (Stack)   H2/D4
+② Beckon Moonlight　｜　　H1/D1　ST/D2
+【Quake III】W：MTH1D1D3　E：STH2D2D4
+【Ultraviolet Ray】※ Markers：N > stay > S
+　(NW)　MT D3 D1 H1　(S)　H2 D2 D4 ST　(NE)
+【Elemental Purge】
+　　   Party　　　※ Party beside marked tank
+　MT　★　ST　  ※ Unmarked tank Provokes
+【Twofold Tempest】
+    D1D3　D2D4　※ Tether: start T/H → CW/CCW
+  MTH1 　　STH2  ※ Beam: 2 away from tether
 【Lone Wolf's Lament (Alice strat)】
-　 T　〇　　　 　T(Near) : NE　T(Far): W　H: Stay
-　〇　★　D　　 D(Near) : N tether⇒NE　S tether⇒S
-　　　H　　　　 D(Far)　: N tether⇒Stay　S tether⇒NE
-【Howling Eight】2: MT Invul　3: ST Invul　4: T Kitchen sink
+　Start：　　 Tanks：(Green) → NE　(Blue) → W
+　 　T　〇　　DPS (Green)：N tether → NE
+　〇　★　D　　　　　 　　 　S tether → S
+　　　H　　　DPS (Blue)：N tether → Stay
+【Howling Eight】8 → MT → ST → MT+ST → 8
 ```
