@@ -14,10 +14,6 @@ combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187
 {% include youtube.html id="EvPn0UHMevk" %}
 *(English subtitled)*
 
-### Things to check on Party Finder
-
-- Check the strat being used for *Demolition Deathmatch* in P2
-
 ### Things to note
 
 A PLD *cannot Hallowed Ground* the first *Smash Here/There* in P1 and the first
@@ -33,23 +29,9 @@ If you have a PLD MT, swap the invulns around (i.e: ST invulns the first
 
 {% include_relative macros/m7s.en.md %}
 
-<details markdown=block>
-<summary>Ishia strat (いしあ式)</summary>
-
-{% include_relative macros/m7s_ishia.en.md %}
-
-</details>
-
 ## Japanese
 
 {% include_relative macros/m7s.jp.md %}
-
-<details markdown=block>
-<summary>Ishia strat (いしあ式)</summary>
-
-{% include_relative macros/m7s_ishia.jp.md %}
-
-</details>
 
 ---
 
@@ -60,34 +42,6 @@ encounter has been cleared.
 
 If you haven't cleared the fight, you will need to copy the markers from
 someone else.
-
-### Base
-
-The `ABCD` markers are for melee Sinister Seeds in P3.
-The `1234` markers are for Strange Seeds in P3.
-
-![]({{site.baseurl}}/images/7.0_dawntrail/m7s/markers.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{
-  "Name":"M7S",
-  "MapID":1024,
-  "A":{"X":100.0,"Y":-200.0,"Z":-5.0,"ID":0,"Active":true},
-  "B":{"X":110.0,"Y":-200.0,"Z":5.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":-200.0,"Z":15.0,"ID":2,"Active":true},
-  "D":{"X":90.0,"Y":-200.0,"Z":5.0,"ID":3,"Active":true},
-  "One":{"X":90.0,"Y":-200.0,"Z":-5.0,"ID":4,"Active":true},
-  "Two":{"X":110.0,"Y":-200.0,"Z":-5.0,"ID":5,"Active":true},
-  "Three":{"X":110.0,"Y":-200.0,"Z":15.0,"ID":6,"Active":true},
-  "Four":{"X":90.0,"Y":-200.0,"Z":15.0,"ID":7,"Active":true}
-}
-```
-
-</details>
-
-### Sari's Demolition Deathmatch
 
 The `AC` markers are for orientation in P3.
 The `BD` markers are for the 2/4 AOE positions for T/H during *Demolition Deathmatch* in P2.
@@ -117,21 +71,12 @@ The `1234` markers are for Strange Seeds in P3.
 
 ## Demolition Deathmatch
 
-There are currently 2 popular strats circulating in PF; "Sari strat (さり式)", which is currently being used by Game8, and "Ishia strat (いしあ式)".
-
-### Sari strat (さり式)
+PF does Sari's strat (さり式), which comes from this post on Twitter:
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">D4のデスマッチ3が気になる場合は2,4番目を図の場所に捨ててください。こちらでも処理可能です <a href="https://t.co/Fv2H1LBMEQ">pic.twitter.com/Fv2H1LBMEQ</a></p>&mdash; さり (@sf_snff) <a href="https://twitter.com/sf_snff/status/1911437620619411542?ref_src=twsrc%5Etfw">April 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/-MN-G2x6mjM3jEaQ).
 (Credits: Sesame Sesamum@Kujata, Vasilissa Xylonez@Tonberry)
-
-### Ishia strat (いしあ式)
-
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="und" dir="ltr">DPS <a href="https://t.co/T8VELmB9pF">pic.twitter.com/T8VELmB9pF</a></p>&mdash; いしあ (@IshiaKun) <a href="https://twitter.com/IshiaKun/status/1907574527867105618?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/xE-q2Xqib9AGETwp).
-(Credits: Jovih Relanah@Tonberry)
 
 ---
 
