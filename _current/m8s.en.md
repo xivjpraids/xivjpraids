@@ -18,10 +18,12 @@ Nukemaru has also split his guide into two parts:
 **First half:**
 
 {% include youtube.html id="Pqxs9VBKn74" %}
+*(English subtitled)*
 
 **Second half:**
 
 {% include youtube.html id="HnFCYfJ-HaM" %}
+*(English subtitled)*
 
 ### Things to check on Party Finder
 
