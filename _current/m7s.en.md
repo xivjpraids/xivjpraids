@@ -47,6 +47,8 @@ The `AC` markers are for orientation in P3.
 The `BD` markers are for the 2/4 AOE positions for T/H during *Demolition Deathmatch* in P2.
 The `1234` markers are for Strange Seeds in P3.
 
+![]({{site.baseurl}}/images/7.0_dawntrail/m7s/markers.jpg)
+
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
