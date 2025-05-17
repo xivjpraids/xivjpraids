@@ -41,39 +41,20 @@ Nukemaru has also split his guide into two parts:
 
 ## Markers
 
-### Standard
+The `C` marker denotes the True South platform in P2. This marker can only be 
+manually placed once the encounter has been cleared.
+
+If you haven't cleared the fight, you will need to copy the markers from 
+someone else.
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m8s/markers.jpg)
+
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
   "Name":"M8S",
-  "MapID":1026,
-  "A":{"X":100.0,"Y":0.0,"Z":89.2,"ID":0,"Active":true},
-  "B":{"X":110.8,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":110.8,"ID":2,"Active":true},
-  "D":{"X":89.2,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":92.363,"Y":0.0,"Z":92.363,"ID":4,"Active":true},
-  "Two":{"X":107.637,"Y":0.0,"Z":92.363,"ID":5,"Active":true},
-  "Three":{"X":107.637,"Y":0.0,"Z":107.637,"ID":6,"Active":true},
-  "Four":{"X":92.363,"Y":0.0,"Z":107.637,"ID":7,"Active":true}
-}
-```
-
-</details>
-
-### C in P2
-
-The `C` marker denotes the True South platform in P2.
-
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{
-  "Name":"M8S (C in P2)",
   "MapID":1026,
   "A":{"X":100.0,"Y":0.0,"Z":89.2,"ID":0,"Active":true},
   "B":{"X":110.8,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
