@@ -111,5 +111,31 @@ Refer to [this raidplan](https://raidplan.io/plan/WFsLBku1C9Iyxneu).
 ![](https://lh3.googleusercontent.com/pw/AP1GczPTjyeP9Ef5LVcMUp_XufrE5V-6durmYTTvUlUN9Vkv_x86sYnZ2-iBwHY4wfeLFlZpRlcGHvyMoHxL58ovKqO6sj-R91yBfTFIu44-NdAvHStP4fd6jLP8xaCmwiHvcfikx8OqAVXyLDSLeACilAc1=w1597-h911-s-no-gm?authuser=0)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1jrkbbt/spoiler_72_m8s_timeline/))*
 
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Revolutionary Reign]</b> How do I tell where the boundary of the final AoE is?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Use the previous set of four small AoEs (when the boss first dashes) 
+      as a guide.</p>
+      <p>In particular, pay attention to the AoEs on the sides of where the boss 
+      will dash- the final AoE's range reaches roughly the same limits as the 
+      small AoEs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m8s/revolutionary_reign.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
