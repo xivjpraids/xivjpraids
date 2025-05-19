@@ -28,7 +28,7 @@
 　　　D3 → SW Ray　　　　　※ Puddles S→N
 　　　D4 → SE Ray　　　　　  ※ Stun：ST>D1>D2
 ■ River phase ーーーーー■ Magma phase ーーー
-【Fire stacks】　　　　|　D3H1　(N)　D4H2
+【Fire stacks】　　　　|　H1D3　(N)　H2D4
 　Near: MTH1D1D2　 |　※※※※※※※※※※
 　　Far: STH2D3D4 　 |　　　 MT　　ST
 【Lightning spread】  |　　　 D1　 　D2
