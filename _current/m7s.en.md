@@ -19,9 +19,15 @@ combined with [Sari's strat](https://twitter.com/sf_snff/status/1909199349940187
 A PLD *cannot Hallowed Ground* the first *Smash Here/There* in P1 and the first
 *Slaminator* in P3 (typically both invulned by the MT).
 
-If you have a PLD MT, swap the invulns around (i.e: ST invulns the first 
-*Smash Here/There* and first *Slaminator*, then the PLD MT invulns the second 
-*Smash Here/There* and second *Slaminator*).
+**If you have a PLD MT**, your options are *either*:
+
+- Have both tanks split the first *Smash Here/There* in P1 instead of the MT 
+  solo'ing it with an invuln, *or*
+- Swap the invulns around, i.e:
+  1. ST invulns the first *Smash Here/There* in P1
+  2. PLD MT invulns the second *Smash Here/There* in P1
+  3. ST invulns the first *Slaminator* in P3.
+  4. PLD MT invulns the second *Slaminator* in P3.
 
 ---
 
