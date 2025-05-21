@@ -50,6 +50,7 @@ If you haven't cleared the fight, you will need to copy the markers from
 someone else.
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m8s/markers.jpg)
+![]({{site.baseurl}}/images/7.0_dawntrail/m8s/markers2.jpg)
 
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
