@@ -97,84 +97,21 @@ Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/-
 
 ## Mechanic Names
 
+*(In order of appearance)*
+
 <table>
   <th>English</th>
   <th>Japanese</th>
   <th>Romaji</th>
-  <tr>
-    <td>Abominable Blink</td>
-    <td>ブルートスパーク</td>
-    <td>buruuto supaaku</td>
-  </tr>
   <tr>
     <td>Brutal Impact</td>
     <td>スマッシュインパクト</td>
     <td>sumasshu inpakuto</td>
   </tr>
   <tr>
-    <td>Brutish Swing</td>
-    <td>ブルートスイング</td>
-    <td>buruuto suingu</td>
-  </tr>
-  <tr>
-    <td>Debris Deathmatch</td>
-    <td>ソーンデスマッチ・ウォール</td>
-    <td>soon desumacchi wooru</td>
-  </tr>
-  <tr>
-    <td>Demolition Deathmatch</td>
-    <td>ソーンデスマッチ・ビルディング</td>
-    <td>soon desumacchi birudingu</td>
-  </tr>
-  <tr>
-    <td>Glower Power</td>
-    <td>ブルートグラワー</td>
-    <td>buruuto gurawaa</td>
-  </tr>
-  <tr>
-    <td>Killer Seeds</td>
-    <td>ヘビーシード</td>
-    <td>hebii shiido</td>
-  </tr>
-  <tr>
-    <td>Lashing Lariat</td>
-    <td>アイビーラリアット</td>
-    <td>aibii rariatto</td>
-  </tr>
-  <tr>
-    <td>Neo Bombarian Special</td>
-    <td>ネオボンバリアンスペシャル</td>
-    <td>neo bonbarian supesharu</td>
-  </tr>
-  <tr>
-    <td>Powerslam</td>
-    <td>パワーダイブ</td>
-    <td>pawaa daibu</td>
-  </tr>
-  <tr>
-    <td>Pulp Smash</td>
-    <td>ソーンスマッシュ</td>
-    <td>soon sumasshu</td>
-  </tr>
-  <tr>
-    <td>Quarry Swamp</td>
-    <td>石化の波動</td>
-    <td>sekka no hadou</td>
-  </tr>
-  <tr>
-    <td>Revenge of the Vines</td>
-    <td>ソーンワールド</td>
-    <td>soon waarudo</td>
-  </tr>
-  <tr>
-    <td>Sinister Seeds</td>
-    <td>スキャッターシード</td>
-    <td>sukyattaa shiido</td>
-  </tr>
-  <tr>
-    <td>Slaminator</td>
-    <td>ブルートダイブ</td>
-    <td>buruuto daibu</td>
+    <td>Stoneringer</td>
+    <td>ストーンウェポン</td>
+    <td>sutoon wepon</td>
   </tr>
   <tr>
     <td>Smash Here</td>
@@ -187,14 +124,54 @@ Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/-
     <td>faa sumasshu</td>
   </tr>
   <tr>
-    <td>Special Bombarian Special</td>
-    <td>アルティメット・ボンバリアンスペシャル</td>
-    <td>arutimetto bonbarian supesharu</td>
-  </tr>
-  <tr>
     <td>Spore Sac</td>
     <td>スポアサック</td>
     <td>supoasakku</td>
+  </tr>
+  <tr>
+    <td>Sinister Seeds</td>
+    <td>スキャッターシード</td>
+    <td>sukyattaa shiido</td>
+  </tr>
+  <tr>
+    <td>Quarry Swamp</td>
+    <td>石化の波動</td>
+    <td>sekka no hadou</td>
+  </tr>
+  <tr>
+    <td>Pulp Smash</td>
+    <td>ソーンスマッシュ</td>
+    <td>soon sumasshu</td>
+  </tr>
+  <tr>
+    <td>Neo Bombarian Special</td>
+    <td>ネオボンバリアンスペシャル</td>
+    <td>neo bonbarian supesharu</td>
+  </tr>
+  <tr>
+    <td>Brutish Swing</td>
+    <td>ブルートスイング</td>
+    <td>buruuto suingu</td>
+  </tr>
+  <tr>
+    <td>Glower Power</td>
+    <td>ブルートグラワー</td>
+    <td>buruuto gurawaa</td>
+  </tr>
+  <tr>
+    <td>Revenge of the Vines</td>
+    <td>ソーンワールド</td>
+    <td>soon waarudo</td>
+  </tr>
+  <tr>
+    <td>Thorny Deathmatch</td>
+    <td>ソーンデスマッチ</td>
+    <td>soon desumacchi</td>
+  </tr>
+  <tr>
+    <td>Abominable Blink</td>
+    <td>ブルートスパーク</td>
+    <td>buruuto supaaku</td>
   </tr>
   <tr>
     <td>Sporesplosion</td>
@@ -202,14 +179,9 @@ Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/-
     <td>supoa kuraudo</td>
   </tr>
   <tr>
-    <td>Stoneringer</td>
-    <td>ストーンウェポン</td>
-    <td>sutoon wepon</td>
-  </tr>
-  <tr>
-    <td>Stoneringer 2: Stoneringers</td>
-    <td>ストーンウェポン・ツイン</td>
-    <td>sutoon wepon tsuin</td>
+    <td>Demolition Deathmatch</td>
+    <td>ソーンデスマッチ・ビルディング</td>
+    <td>soon desumacchi birudingu</td>
   </tr>
   <tr>
     <td>Strange Seeds</td>
@@ -217,9 +189,39 @@ Alternatively, you can also reference [this raidplan](https://raidplan.io/plan/-
     <td>burou shiido</td>
   </tr>
   <tr>
-    <td>Thorny Deathmatch</td>
-    <td>ソーンデスマッチ</td>
-    <td>soon desumacchi</td>
+    <td>Killer Seeds</td>
+    <td>ヘビーシード</td>
+    <td>hebii shiido</td>
+  </tr>
+  <tr>
+    <td>Powerslam</td>
+    <td>パワーダイブ</td>
+    <td>pawaa daibu</td>
+  </tr>
+  <tr>
+    <td>Stoneringer 2: Stoneringers</td>
+    <td>ストーンウェポン・ツイン</td>
+    <td>sutoon wepon tsuin</td>
+  </tr>
+  <tr>
+    <td>Lashing Lariat</td>
+    <td>アイビーラリアット</td>
+    <td>aibii rariatto</td>
+  </tr>
+  <tr>
+    <td>Slaminator</td>
+    <td>ブルートダイブ</td>
+    <td>buruuto daibu</td>
+  </tr>
+  <tr>
+    <td>Debris Deathmatch</td>
+    <td>ソーンデスマッチ・ウォール</td>
+    <td>soon desumacchi wooru</td>
+  </tr>
+  <tr>
+    <td>Special Bombarian Special</td>
+    <td>アルティメット・ボンバリアンスペシャル</td>
+    <td>arutimetto bonbarian supesharu</td>
   </tr>
 </table>
 
