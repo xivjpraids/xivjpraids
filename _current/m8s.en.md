@@ -97,6 +97,168 @@ Refer to [this raidplan](https://raidplan.io/plan/WFsLBku1C9Iyxneu).
 
 ---
 
+## Mechanic Names
+
+*(In order of appearance)*
+
+<table>
+  <th>English</th>
+  <th>Japanese</th>
+  <th>Romaji</th>
+  <tr>
+    <td>Extraplanar Pursuit</td>
+    <td>空間斬り</td>
+    <td>kuukan giri</td>
+  </tr>
+  <tr>
+    <td>Stonefang</td>
+    <td>土の魔技</td>
+    <td>tsuchi no magi</td>
+  </tr>
+  <tr>
+    <td>Windfang</td>
+    <td>風の魔技</td>
+    <td>kaze no magi</td>
+  </tr>
+  <tr>
+    <td>Eminent Reign</td>
+    <td>薙の群狼剣</td>
+    <td>nagi no gunrouken</td>
+  </tr>
+  <tr>
+    <td>Revolutionary Reign</td>
+    <td>廻の群狼剣</td>
+    <td>kai no gunrouken</td>
+  </tr>
+  <tr>
+    <td>Millenial Decay</td>
+    <td>千年の風化</td>
+    <td>sennen no fuuka</td>
+  </tr>
+  <tr>
+    <td>Tracking Tremors</td>
+    <td>連震撃</td>
+    <td>renshingeki</td>
+  </tr>
+  <tr>
+    <td>Great Divide</td>
+    <td>一刀両断</td>
+    <td>ittou ryoudan</td>
+  </tr>
+  <tr>
+    <td>Terrestrial Titans</td>
+    <td>大地の呼び声</td>
+    <td>daichi no yobigoe</td>
+  </tr>
+  <tr>
+    <td>Titanic Pursuit</td>
+    <td>斬空剣</td>
+    <td>zankuuken</td>
+  </tr>
+  <tr>
+    <td>Tactical Pack</td>
+    <td>光狼招来</td>
+    <td>kourou shourai</td>
+  </tr>
+  <tr>
+    <td>Pack Predation</td>
+    <td>光狼陣</td>
+    <td>kouroujin</td>
+  </tr>
+  <tr>
+    <td>Ravenous Saber</td>
+    <td>風塵光狼斬</td>
+    <td>fuujin kourousan</td>
+  </tr>
+  <tr>
+    <td>Terrestrial Rage</td>
+    <td>大地の怒り</td>
+    <td>daichi no ikari</td>
+  </tr>
+  <tr>
+    <td>Beckon Moonlight</td>
+    <td>幻狼招来</td>
+    <td>genrou shourai</td>
+  </tr>
+  <tr>
+    <td>Weal of Stone</td>
+    <td>地烈波</td>
+    <td>chiretsuha</td>
+  </tr>
+  <tr>
+    <td>Extraplanar Feast (enrage)</td>
+    <td>空間斬り・滅</td>
+    <td>kuukan giri metsu</td>
+  </tr>
+  <tr>
+    <td>Quake III</td>
+    <td>クエイガ</td>
+    <td>kueiga</td>
+  </tr>
+  <tr>
+    <td>Ultraviolet Ray</td>
+    <td>魔光</td>
+    <td>makou</td>
+  </tr>
+  <tr>
+    <td>Twinbite</td>
+    <td>双牙撃</td>
+    <td>sougageki</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>

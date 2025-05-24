@@ -11,7 +11,7 @@ permalink: /ultimates/fru/
 
 Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5500375/),
 which is basically Lily Doll's original strat, but has P4 and P5 replaced with
-Nukemaru's strats.
+Nukemaru's strats, which you'll see written as "P123リリドP45ぬけまる(アポカリ基準/扇前)".
 
 ### BiS Notes
 
@@ -69,6 +69,14 @@ Here are some clear PoVs that I've been collecting.
 ```
 
 </details>
+
+---
+
+## Japanese
+
+This is the **Apocalypse-relative** macro taken from [Lily Doll's Lodestone post](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5500375/).
+
+{% include_relative macros/fru.jp.md %}
 
 ---
 
