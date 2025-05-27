@@ -19,16 +19,16 @@ likely be differences.
 The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
-- **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia) - *Work in progress*
+- **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia)
 
 **Unreal Trials:**
-- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku) - *Work in progress*
+- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku)
 
 **Savage Raids:**
-- **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s) - *Work in progress*
-- **M6S** - [AAC Cruiserweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m6s) - *Work in progress*
-- **M7S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s) - *Work in progress*
-- **M8S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s) - *Work in progress*
+- **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s)
+- **M6S** - [AAC Cruiserweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m6s)
+- **M7S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s)
+- **M8S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s)
 
 **Ultimate Raids:**
 - **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)

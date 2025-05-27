@@ -1,45 +1,29 @@
 ---
 layout: default
-title: Raid Terminology
+title: Terminology
 nav_order: 2
 has_children: false
 has_toc: false
 permalink: /terminology/
 ---
 
-# Raid Terminology
+# Terminology
 
 Every game/community develops their own terminology that may be foreign for
 newer players, yet alone terms in another language.
 
-<table>
-  <tr>
-    <th>Progression</th>
-    <th>Positions</th>
-    <th>Loot</th>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="#first-time初見">First time/初見</a></p>
-      <p><a href="#progpractice練習">Prog/Practice/練習</a></p>
-      <p><a href="#stabilize安定">Stabilize/安定</a></p>
-      <p><a href="#aim-to-clear-a2cクリ目">Aim to clear (A2C)/クリ目</a></p>
-      <p><a href="#clear-for-one-c41">Clear for one (C41)</a></p>
-      <p><a href="#reclearweekly-clear消化">Reclear/Weekly clear/消化</a></p>
-      <p><a href="#parse火力詰め">Parse/(火力)詰め</a></p>
-    </td>
-    <td>
-      <p><a href="#tanks">Tanks</a></p>
-      <p><a href="#healers">Healers</a></p>
-      <p><a href="#dps">DPS</a></p>
-    </td>
-    <td>
-      <p><a href="#lr取り抜け">L>R/取り抜け</a></p>
-      <p><a href="#ffaフリロ">FFA/フリロ</a></p>
-      <p><a href="#rounds周">Rounds/周</a></p>
-    </td>
-  </tr>
-</table>
+---
+
+## General
+
+Oftentimes, the PF description will mention whether they have a macro ready, or markers
+ready:
+
+- Macro/マクロ - often shortened to just マク
+- Markers/マーカー - often shorted to just マカ
+
+For example, マク〇マカ× will mean that the party lead has a macro, but doesn't have field
+markers (waymarks) for the encounter.
 
 ---
 
@@ -75,7 +59,7 @@ You will often also see:
   leader will initiate a Ready Check to see how many people want to continue
   (継続RC). If *anybody* replies "No", the party disbands.
 
-### Stabilize/安定
+### Cleanup/安定
 
 This is an extension of practice, except you are expected to have reached the
 mechanic before and the aim is to resolve the mechanic consistently.
@@ -102,6 +86,16 @@ good idea to clarify whether helpers are welcome:
 This is a subset of Aim to clear (A2C) parties. In this case, only one player
 in the party has not cleared the encounter, and the party leader is explicitly
 looking for players who have cleared the encounter to help.
+
+### Mercenary Runs/傭兵
+
+The party leader is offering gil in exchange for clearing the fight, oftentimes
+with extra stipulations (e.g: they will claim the mount if it drops, or they
+want the weapon coffer).
+
+Players that join are expected to be comfortable with the encounter, and meet
+the stipulations (e.g: not cleared for the week if the party lead wants Savage
+loot.)
       
 ### Reclear/Weekly clear/消化
 
@@ -115,6 +109,14 @@ wipes, or after 30 minutes.
 - **3滅解散 (disband after three wipes):** As the name implies, if the party wipes
   three times without clearing, it's assumed that the party cannot clear and
   disbands.
+
+### Book/Page run/断章
+
+Only applicable to Savage- this is a (re)clear party, but *without* any loot, so players
+who have cleared for the week are welcome to join.
+
+You may sometimes see "箱あれば…", which means "if there is a coffer (loot)"; for example,
+箱あれば左から取り抜け (if there is loot, lot left-to-right and drop).
 
 ### Parse/(火力)詰め
 
@@ -140,7 +142,7 @@ indicate a taken position (e.g: D1 taken/D1〆).
   maintank, and sometimes "whoever happens to be tanking the boss at the time".
   As a general rule, if where the boss faces is relevant, then "MT" will refer
   to whoever is currently tanking the boss.
-- Other regions (NA/EU/AU) will call the ST the OT instead (off-tank).
+- Other regions (NA/EU/OCE) will call the ST the OT instead (off-tank).
 
 ### Healers
 
@@ -174,8 +176,10 @@ ensure they cannot loot on something else. As a result, everyone can only gets
 1 item at most.
 
 Oftentimes, this is 左から取り抜け (take loot from the left and drop), but it's
-also common to explicitly list out an order for the 4th floor raids, like 
-"Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他).
+also common to explicitly list out an order for the 4th floor raids, for example: 
+
+- "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他)
+- "Need > Coffer > Greed" (N＞箱＞G)
 
 While it is not enforcible that players don't just loot on multiple items,
 **doing so would almost certainly get you blacklisted**, and is a reportable
@@ -211,7 +215,6 @@ Finder.
 
 How many clears everyone is expected to stay for (e,g: 3 rounds/3周). This will
 most often be seen on farmable encounters, like EX trials.
-
 
 ---
 
