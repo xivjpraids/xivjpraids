@@ -206,54 +206,64 @@ Refer to [this raidplan](https://raidplan.io/plan/WFsLBku1C9Iyxneu).
     <td>sougageki</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hero's Blow</td>
+    <td>鎧袖一触</td>
+    <td>gaishuu isshoku</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Mooncleaver</td>
+    <td>剛刃一閃</td>
+    <td>goujin issen</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Elemental Purge</td>
+    <td>風震の魔印</td>
+    <td>fuushin no main</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Prowling Gale</td>
+    <td>風狼陣</td>
+    <td>fuuroujin</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rise of the Howling Wind</td>
+    <td>魔狼戦型・天嵐の相</td>
+    <td>marou senkei tenran no sou</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Twofold Tempest</td>
+    <td>双牙暴風撃</td>
+    <td>souga boufuugeki</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Bare Fangs</td>
+    <td>光牙招来</td>
+    <td>kouga shourai</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Champion's Circuit</td>
+    <td>廻天動地</td>
+    <td>kaiten douchi</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rise of the Hunter's Blade</td>
+    <td>魔狼戦型・呪刃の相</td>
+    <td>marou senkei jujin no sou</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Lone Wolf's Lament</td>
+    <td>孤狼の呪い</td>
+    <td>kourou no noroi</td>
+  </tr>
+  <tr>
+    <td>Howling Eight</td>
+    <td>八連光弾</td>
+    <td>hachiren koudan</td>
+  </tr>
+  <tr>
+    <td>Starcleaver</td>
+    <td>剛刃一閃・終</td>
+    <td>goujin issen shuu</td>
   </tr>
 </table>
 
