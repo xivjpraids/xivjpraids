@@ -78,32 +78,32 @@ macros:
   # =========================
 
   - name: "Worqor Lar Dor (Extreme)"
-    group: "Current/English"
+    group: "7.0 Dawntrail/Extreme Trials/English"
     iconId: 26662
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/valigarmanda.en.md
 
   - name: "Worqor Lar Dor (Extreme)"
-    group: "Current/Japanese"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
     iconId: 26662
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/valigarmanda.jp.md
 
   - name: "Everkeep (Extreme)"
-    group: "Current/English"
+    group: "7.0 Dawntrail/Extreme Trials/English"
     iconId: 26663
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/zoraal_ja.en.md
 
   - name: "Everkeep (Extreme)"
-    group: "Current/Japanese"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
     iconId: 26663
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/zoraal_ja.jp.md
 
   - name: "The Minstrel's Ballad: Sphene's Burden"
-    group: "Current/English"
+    group: "7.0 Dawntrail/Extreme Trials/English"
     iconId: 26671
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/sphene.en.md
 
   - name: "The Minstrel's Ballad: Sphene's Burden"
-    group: "Current/Japanese"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
     iconId: 26671
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/sphene.jp.md
 
@@ -112,42 +112,42 @@ macros:
   # =========================
 
   - name: "AAC Light-heavyweight M1 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/English"
+    group: "7.0 Dawntrail/Savage Raids/English"
     iconId: 26457
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m1s.en.md
 
   - name: "AAC Light-heavyweight M1 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/Japanese"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
     iconId: 26457
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m1s.jp.md
 
   - name: "AAC Light-heavyweight M2 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/English"
+    group: "7.0 Dawntrail/Savage Raids/English"
     iconId: 26458
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m2s.en.md
 
   - name: "AAC Light-heavyweight M2 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/Japanese"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
     iconId: 26458
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m2s.jp.md
 
   - name: "AAC Light-heavyweight M3 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/English"
+    group: "7.0 Dawntrail/Savage Raids/English"
     iconId: 26459
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m3s.en.md
 
   - name: "AAC Light-heavyweight M3 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/Japanese"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
     iconId: 26459
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m3s.jp.md
 
   - name: "AAC Light-heavyweight M4 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/English"
+    group: "7.0 Dawntrail/Savage Raids/English"
     iconId: 26460
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m4s.en.md
 
   - name: "AAC Light-heavyweight M4 (Savage)"
-    group: "6.0 Endwalker/Savage Raids/Japanese"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
     iconId: 26460
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m4s.jp.md
 
