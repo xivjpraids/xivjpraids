@@ -24,7 +24,11 @@ Looking towards the future:
 Patch 8.0.
 - Relic weapons (when they arrive) will have their substats capped at **393**.
 
- <div id="gallery" class="gallery"> <a href="https://akanabanana.github.io/FFXIVPF2/Assets/Images/Mana.png" data-mediabox="gallery-1" data-title="FRU Mana"> <img style="max-width: 90%" src="https://ffxivpf.com/Assets/Images/cheatsheet/FRU_Mana_EN.png" alt="Image 1"> </a> </div>   
+ <div id="gallery" class="gallery">
+  <a href="https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/FRU_Mana_EN.png" data-mediabox="gallery-1" data-title="FRU Mana">
+    <img style="max-width: 90%" src="https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/FRU_Mana_EN.png" alt="Image 1">
+  </a>
+</div>
    
 (Full-size image
 [English](https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/FRU_Mana_EN.png), [日本語](https://akanabanana.github.io/FFXIVPF2/Assets/Images/cheatsheet/FRU_Mana_JP.png))
