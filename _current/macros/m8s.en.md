@@ -15,7 +15,7 @@
 ① Windfang, stack mid｜MT/D3   (Stack)   H2/D4
 ② Beckon Moonlight　｜　　H1/D1　ST/D2
 【Quake III】W：MTH1D1D3　E：STH2D2D4
-【Ultraviolet Ray】※ Markers：N > stay > S
+【Ultraviolent Ray】※ Markers：N > stay > S
 　(NW)　MT D3 D1 H1　(S)　H2 D2 D4 ST　(NE)
 【Elemental Purge】
 　　   Party　　　※ Party beside marked tank
