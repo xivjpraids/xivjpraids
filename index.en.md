@@ -33,6 +33,9 @@ The current item level cap is **iLvl 765**.
 **Ultimate Raids:**
 - **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)
 
+**Other Raid Content:**
+- **OC** - [Occult Crescent]({{site.baseurl}}/7.0_dawntrail/others/occult_crescent)
+
 ---
 
 ## Macro Mate
