@@ -181,6 +181,11 @@ also common to explicitly list out an order for the 4th floor raids, for example
 - "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他)
 - "Need > Coffer > Greed" (N＞箱＞G)
 
+Sometimes, you'll also see 先ロット禁止 added, which means something like "no rolling
+ahead". This means that the whole party *will* roll and resolve each piece of
+loot one-by-one in order (i.e: no rolling out of order to see if you got a good
+roll on a later piece).
+
 While it is not enforcible that players don't just loot on multiple items,
 **doing so would almost certainly get you blacklisted**, and is a reportable
 offense.
