@@ -11,7 +11,7 @@
 　　Corner → Move along N/S edge → Center
 　■ 4:4 stacks
 　　MT-group: West, ST-group: East
-【Thorny Deathmatch (Sari strat)】
+【Demolition Deathmatch (Sari strat)】
 　①ーー★ーー②ーーーーー③　■ Pair Stacks  　
 　｜　　　　　　　　　　　｜　　MTD1：①
 　｜ a　　　 b 　　　　　c  ｜　　  STD2：②

@@ -196,7 +196,7 @@ Refer to [this raidplan](https://raidplan.io/plan/WFsLBku1C9Iyxneu).
     <td>kueiga</td>
   </tr>
   <tr>
-    <td>Ultraviolet Ray</td>
+    <td>Ultraviolent Ray</td>
     <td>魔光</td>
     <td>makou</td>
   </tr>
