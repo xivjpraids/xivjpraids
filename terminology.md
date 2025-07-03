@@ -70,8 +70,11 @@ parse parties.**
 
 ### Aim to clear (A2C)/クリ目
 
-It is expected that you have made it to enrage at this point, and know all the
-mechanics.
+There are a couple expectations for someone that is aiming to clear, with some
+leeway for the final mechanic in the encounter:
+
+- All players have made it to enrage.
+- All players will be able to resolve *all* mechanics in *all* permutations.
 
 When it comes to Savage, because having cleared players affects loot, it's a
 good idea to clarify whether helpers are welcome:
