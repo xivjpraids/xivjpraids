@@ -56,8 +56,3 @@ The item level cap for Alphascape is **iLvl 405**.
 - **O12S** - Alphascape V4.0 (Savage)
 	- [Part 1](savage_raids/o12s_1)
 	- [Part 2](savage_raids/o12s_2)
-
-## Ultimate
-
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)]({{site.baseurl}}/ultimates/ucob)
-- **UWU** - [The Weapon's Refrain (Ultimate)]({{site.baseurl}}/ultimates/uwu)

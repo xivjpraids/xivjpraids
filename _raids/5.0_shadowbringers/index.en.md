@@ -52,7 +52,3 @@ The item level cap for Eden's Promise is **iLvl 535**.
 - **E12S** - Eden's Promise: Eternity (Savage)
 	- [Part 1](savage_raids/e12s_1)
 	- [Part 2](savage_raids/e12s_2)
-
-## Ultimate
-
-- **TEA** - [The Epic of Alexander (Ultimate)]({{site.baseurl}}/ultimates/tea)

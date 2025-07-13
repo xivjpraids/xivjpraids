@@ -55,8 +55,3 @@ The item level cap for Pandæmonium: Anabaseios is **iLvl 665**.
 - **P12S** - Anabaseios: The Twelfth Circle (Savage)
 	- [Part 1](savage_raids/p12s_1)
 	- [Part 2](savage_raids/p12s_2)
-
-## Ultimate
-
-- **DSR** - [Dragonsong's Reprise (Ultimate)]({{site.baseurl}}/ultimates/dsr)
-- **TOP** - [The Omega Protocol (Ultimate)]({{site.baseurl}}/ultimates/top)
