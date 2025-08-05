@@ -19,7 +19,8 @@ Vulnerability Up* debuff that *can* be Esuna'ed.
 
 Both hits can be invulned.
 
-The boss will auto-attack twice after the tankbuster, and its damage is increased with the *Physical Vulnerability Up* debuff.
+The boss will auto-attack twice after the tankbuster, and its damage is
+increased with the *Physical Vulnerability Up* debuff.
 
 Either *Esuna* the *Physical Vulnerability Up*, mitigate through the two
 auto-attacks, or have the ST *Provoke* the boss to take the auto-attacks.
@@ -239,14 +240,15 @@ the puddles directly behind the Usurper of Frost.
 <table>
   <tr>
     <td width="50%">
-      <p><b>Case 1: The Usurper of Frost is at the same position as either party.</b></p>
+      <p><b>Case 1: The Usurper of Frost is at the same position as either
+      party.</b></p>
       <p>Move as soon as the star AoEs go off. You can drop the first <em>Akh
       Morn</em> puddle behind the boss (as it will disappear), but not the
       second.</p>
       <p>Quickly run clockwise 180 degrees around the arena- you need to drop
       four puddles and still make it to the other side.</p>
-      <p>When the floor turns to ice, slide so you're in front of the Usurper of 
-      Frost.</p>
+      <p>When the floor turns to ice, slide so you're in front of the Usurper
+      of Frost.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
@@ -264,7 +266,8 @@ the puddles directly behind the Usurper of Frost.
   </tr>
   <tr>
     <td>
-      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a party.</b></p>
+      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a
+      party.</b></p>
       <p>In this scenario, both parties move clockwise quickly, and end up
       directly in front and behind the Usurper of Frost.</p>
     </td>
@@ -314,8 +317,10 @@ Oracle's Reflection to prepare for the next mechanic.
       <p><b>10.</b> The Oracle's Reflection will now ready either <em>Twin 
       Silence</em> or <em>Twin Stillness</em>.</p>
       <ul>
-        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Slide in front of the Oracle's Reflection.</li>
-        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Slide behind the Oracle's Reflection.</li>
+        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Slide in front
+        of the Oracle's Reflection.</li>
+        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Slide
+        behind the Oracle's Reflection.</li>
       </ul>
     </td>
   </tr>
@@ -337,8 +342,8 @@ Oracle's Reflection to prepare for the next mechanic.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>11.</b> The boss will quickly follow it up with the opposite attack,
-      so slide in/out again as necessary.</p>
+      <p><b>11.</b> The boss will quickly follow it up with the opposite
+      attack, so slide in/out again as necessary.</p>
     </td>
   </tr>
 </table>
@@ -868,7 +873,8 @@ Gaia and turning her into the Oracle of Darkness.
 
 <details markdown=block>
 <summary>
-  <b>[Crystals]</b> What leads to <em>"the eternal ice shatters and disappears?"</em>
+  <b>[Crystals]</b> What leads to <em>"the eternal ice shatters and
+  disappears?"</em>
 </summary>
 <table>
   <tr>

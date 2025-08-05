@@ -194,8 +194,8 @@ This is the most complex mechanic of the phase.
   <tr>
     <td colspan="2" width="50%">
       <p><b>14.</b> The second tower appears.</p>
-      <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
-      one of the boss's wings will glow.</p>
+      <p>At the same time, the boss will cast <em>Wings Dark and Light</em>,
+      and one of the boss's wings will glow.</p>
       <ul>
         <li><b>MT + ST:</b> Tank swap during the <em>Wings Dark and Light</em> 
         cast.</li>

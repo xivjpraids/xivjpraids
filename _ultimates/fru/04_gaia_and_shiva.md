@@ -200,7 +200,8 @@ We can now continue with the mechanic.
       time, so stack up on <b>the two intercardinal markers on the safe half of
       the arena.</b></p>
       <ul>
-        <li>This will be far enough to not trigger the tethers while also avoiding the Fragment of Fate.</li>
+        <li>This will be far enough to not trigger the tethers while also
+        avoiding the Fragment of Fate.</li>
         <li>The south group can move closer to the south marker to give some
         extra margin of error if needed.</li>
       </ul>
@@ -222,7 +223,8 @@ We can now continue with the mechanic.
         <li>This <em>cannot</em> be taken by a PLD, as they will need
         <em>Hallowed Ground</em> for the final phase.</li>
         <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
-        cause <em>Superbolide</em> to not be available in time for the second <em>Wings Dark and Light</em> in the final phase.</li>
+        cause <em>Superbolide</em> to not be available in time for the second
+        <em>Wings Dark and Light</em> in the final phase.</li>
       </ul>
     </td>
     <td>
@@ -296,7 +298,8 @@ anti-clockwise.</p>
     </td>
     <td>
       <p><b>Wyrmclaw</b></p>
-      <p><em>Shredded by draconic talons. KO will occur when countdown reaches 0.</em></p>
+      <p><em>Shredded by draconic talons. KO will occur when countdown reaches
+      0.</em></p>
       <p><em>Wyrmclaw</em> and <em>Wyrmfang</em> randomly split the party into
       two groups of four.</p>
       <p>When a player with <em>Wyrmclaw</em> runs into the dragon head, it:</p>
@@ -703,8 +706,8 @@ party advances to the final phase.
 <table>
   <tr>
     <td>
-      <p>Although both bosses cast <em>Darklit Dragonsong</em>, damage originates
-      from the <b>Usurper of Frost</b>.</p>
+      <p>Although both bosses cast <em>Darklit Dragonsong</em>, damage
+      originates from the <b>Usurper of Frost</b>.</p>
       <p><em>(You can think of it as the Oracle of Darkness is the one that
       applies all the debuffs on the party, although it's actually the
       environment that does so.)</em></p>
@@ -811,7 +814,8 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this mechanic work?
+  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this
+  mechanic work?
 </summary>
 <table>
   <tr>
