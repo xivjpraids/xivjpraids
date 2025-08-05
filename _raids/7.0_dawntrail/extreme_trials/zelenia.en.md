@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Zelenia EX
-nav_order: 1
+parent: Extreme Trials
+nav_order: 4
+grand_parent: 7.0 Dawntrail
 permalink: /7.0_dawntrail/extreme_trials/zelenia/
 ---
 

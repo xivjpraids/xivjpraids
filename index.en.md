@@ -14,15 +14,15 @@ Meteor).
 Keep that in mind when looking up other English videos/guides as there will
 likely be differences.
 
-## Current content (Patch 7.2)
+## Current content (Patch 7.3)
 
 The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
-- **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia)
+- **EX5** - ???
 
 **Unreal Trials:**
-- **Suzaku Unreal** - [Hells' Kier (Unreal)]({{site.baseurl}}/unreal/suzaku)
+- **Seiryu Unreal** - [The Wreath of Snakes (Unreal)]({{site.baseurl}}/unreal/seiryu)
 
 **Savage Raids:**
 - **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s)

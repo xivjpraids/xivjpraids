@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Seiryu EX
-parent: Extreme Trials
-nav_order: 7
-grand_parent: 4.0 Stormblood
-permalink: /4.0_stormblood/extreme_trials/seiryu/
+title: Seiryu Unreal
+nav_order: 2
+permalink: /unreal/seiryu/
 ---
 
-# The Wreath of Snakes (Extreme)
+# The Wreath of Snakes (Unreal)
 
 A more up-to-date reference would be Nukemaru's guide:
 
