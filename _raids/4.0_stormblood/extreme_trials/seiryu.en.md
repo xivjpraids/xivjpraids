@@ -9,6 +9,10 @@ permalink: /4.0_stormblood/extreme_trials/seiryu/
 
 # The Wreath of Snakes (Extreme)
 
+A more up-to-date reference would be Nukemaru's guide:
+
+{% include youtube.html id="rSaqAxvpH0Y" %}
+
 ## Japanese
 
 {% include_relative macros/seiryu.jp.md %}
