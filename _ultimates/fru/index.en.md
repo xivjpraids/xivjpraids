@@ -15,7 +15,10 @@ Nukemaru's strats, which you'll see written as "P123リリドP45ぬけまる(ア
 
 ### BiS Notes
 
-- Use your **i730** BiS.
+- BiS will be a mix of gear from:
+  - **i730**: M1-4S (AAC Light-heavyweight (Savage)).
+  - **i730**: The Cloud of Darkness (Chaotic).
+  - **i735**: Dungeon gear from *The Meso Terminal*.
 - Use the highest grade potions available.
 
 Looking towards the future:
