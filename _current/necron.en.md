@@ -7,15 +7,19 @@ permalink: /7.0_dawntrail/extreme_trials/ex5/
 
 # The Minstrel's Ballad: Necron's Embrace
 
-An early guide you can reference is Kurapon's guide, although bear in mind this
-will *very likely change*. This page will be updated when Game8 publishes their
-article.
+Early guides are out, although Game8 has not yet made a decision yet.
+
+### Nukemaru
+
+{% include youtube.html id="-YhoKrmlZmM" %}
+
+### Kurapon
 
 {% include youtube.html id="Fu2YKUnNiC8" %}
 
-Another video players are referencing is Lucrezia's clear:
+### Lucrezia
 
-{% include youtube.html id="1oDEANPcuBc" %}
+{% include youtube.html id="WCd5d3kHB6M" %}
 
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
