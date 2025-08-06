@@ -19,7 +19,7 @@ likely be differences.
 The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
-- **EX5** - ???
+- **EX5** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/ex5)
 
 **Unreal Trials:**
 - **Seiryu Unreal** - [The Wreath of Snakes (Unreal)]({{site.baseurl}}/unreal/seiryu)

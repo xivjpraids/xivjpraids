@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Seiryu Unreal
-nav_order: 2
+nav_order: 1
 permalink: /unreal/seiryu/
 ---
 
