@@ -4,25 +4,15 @@ macros:
   # = Current Content =
   # ===================
 
-  - name: "Zelenia EX"
+  - name: "The Wreath of Snakes (Unreal)"
     group: "Current/English"
-    iconId: 26680
-    markdownUrl: _current/macros/zelenia.en.md
+    iconId: 26545
+    markdownUrl: _current/macros/seiryu.en.md
 
-  - name: "Zelenia EX"
+  - name: "The Wreath of Snakes (Unreal)"
     group: "Current/Japanese"
-    iconId: 26680
-    markdownUrl: _current/macros/zelenia.jp.md
-
-  - name: "Hells' Kier (Unreal)"
-    group: "Current/English"
-    iconId: 26541
-    markdownUrl: _current/macros/suzaku.en.md
-
-  - name: "Hells' Kier (Unreal)"
-    group: "Current/Japanese"
-    iconId: 26541
-    markdownUrl: _current/macros/suzaku.jp.md
+    iconId: 26545
+    markdownUrl: _current/macros/seiryu.jp.md
 
   - name: "AAC Cruiserweight M1 (Savage)"
     group: "Current/English"
@@ -735,9 +725,19 @@ macros:
     markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/byakko.jp.md
 
   - name: "Hells' Kier (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/English"
+    iconId: 26541
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/suzaku.en.md
+
+  - name: "Hells' Kier (Extreme)"
     group: "4.0 Stormblood/Extreme Trials/Japanese"
     iconId: 26541
     markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/suzaku.jp.md
+
+  - name: "The Wreath of Snakes (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/English"
+    iconId: 26545
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/seiryu.en.md
 
   - name: "The Wreath of Snakes (Extreme)"
     group: "4.0 Stormblood/Extreme Trials/Japanese"
