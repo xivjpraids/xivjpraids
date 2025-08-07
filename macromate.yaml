@@ -4,6 +4,16 @@ macros:
   # = Current Content =
   # ===================
 
+  - name: "The Minstrel's Ballad: Necron's Embrace"
+    group: "Current/English"
+    iconId: 26662
+    markdownUrl: _current/macros/necron.en.md
+
+  - name: "The Minstrel's Ballad: Necron's Embrace"
+    group: "Current/Japanese"
+    iconId: 26662
+    markdownUrl: _current/macros/necron.jp.md
+
   - name: "The Wreath of Snakes (Unreal)"
     group: "Current/English"
     iconId: 26545
