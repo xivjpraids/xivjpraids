@@ -6,12 +6,12 @@ macros:
 
   - name: "The Minstrel's Ballad: Necron's Embrace"
     group: "Current/English"
-    iconId: 26662
+    iconId: 26682
     markdownUrl: _current/macros/necron.en.md
 
   - name: "The Minstrel's Ballad: Necron's Embrace"
     group: "Current/Japanese"
-    iconId: 26662
+    iconId: 26682
     markdownUrl: _current/macros/necron.jp.md
 
   - name: "The Wreath of Snakes (Unreal)"
@@ -106,6 +106,16 @@ macros:
     group: "7.0 Dawntrail/Extreme Trials/Japanese"
     iconId: 26671
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/sphene.jp.md
+
+  - name: "Recollection (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/English"
+    iconId: 26680
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/zelenia.en.md
+
+  - name: "Recollection (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
+    iconId: 26680
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/zelenia.jp.md
 
   # =========================
   # = Dawntrail - Savage    =
