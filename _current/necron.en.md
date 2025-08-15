@@ -1,8 +1,8 @@
 ---
 layout: default
-title: EX5
+title: Necron EX
 nav_order: 2
-permalink: /7.0_dawntrail/extreme_trials/ex5/
+permalink: /7.0_dawntrail/extreme_trials/necron/
 ---
 
 # The Minstrel's Ballad: Necron's Embrace
