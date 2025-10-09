@@ -20,6 +20,7 @@ The current item level cap is **iLvl 765**.
 
 **Extreme Trials:**
 - **Necron EX** - [The Minstrel's Ballad: Necron's Embrace]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
+- **Arkveld EX** - [The Windward Wilds (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/arkveld)
 
 **Unreal Trials:**
 - **Seiryu Unreal** - [The Wreath of Snakes (Unreal)]({{site.baseurl}}/unreal/seiryu)

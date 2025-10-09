@@ -17,7 +17,8 @@ The level cap for Dawntrail is **Level 100**.
 - **Zoraal Ja EX** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
 - **Sphene EX** - [The Minstrel's Ballad: Sphene's Burden]({{site.baseurl}}/7.0_dawntrail/extreme_trials/sphene)
 - **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia)
-- **Necron EX** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
+- **Necron EX** - [The Minstrel's Ballad: Necron's Embrace]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
+- **Arkveld EX** - [The Windward Wilds (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/arkveld)
 
 ## Savage
 
