@@ -19,7 +19,7 @@ Game8 has not yet picked a strat to go with.
 
 ## Nukemaru
 
-{% include youtube.html id="ivLfP_1ibEg" %}
+{% include youtube.html id="nmdYU_3REik" %}
 
 ---
 
@@ -27,6 +27,36 @@ Game8 has not yet picked a strat to go with.
 
 {% include youtube.html id="w7nxI38Y9rs" %}
 
+---
+
+## Markers
+
+The `ABCD` markers are used by the Nukemaru and Takeshi strats for the Clamorous Chase mechanic.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/arkveld/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"Arkveld EX",
+  "MapID":1044,
+  "A":{"X":100.0,"Y":0.0,"Z":81.4,"ID":0,"Active":true},
+  "B":{"X":118.6,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":118.6,"ID":2,"Active":true},
+  "D":{"X":81.4,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":86.848,"Y":0.0,"Z":86.848,"ID":4,"Active":true},
+  "Two":{"X":113.152,"Y":0.0,"Z":86.848,"ID":5,"Active":true},
+  "Three":{"X":113.152,"Y":0.0,"Z":113.152,"ID":6,"Active":true},
+  "Four":{"X":86.848,"Y":0.0,"Z":113.152,"ID":7,"Active":true}
+}
+```
+
+</details>
+
+## Clamorous Chase (a.k.a. Limit Cut)
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">極護竜サイコロ　1234が終わったら、5678と入れ替え <a href="https://t.co/mduqKOa5PD">pic.twitter.com/mduqKOa5PD</a></p>&mdash; 攻略見る趣味 (@mitsurugi137) <a href="https://twitter.com/mitsurugi137/status/1975548126430937175?ref_src=twsrc%5Etfw">October 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
