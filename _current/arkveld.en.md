@@ -45,14 +45,16 @@ The `ABCD` markers are used by the Nukemaru and Takeshi strats for the Clamorous
   "B":{"X":118.6,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
   "C":{"X":100.0,"Y":0.0,"Z":118.6,"ID":2,"Active":true},
   "D":{"X":81.4,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":86.848,"Y":0.0,"Z":86.848,"ID":4,"Active":true},
-  "Two":{"X":113.152,"Y":0.0,"Z":86.848,"ID":5,"Active":true},
-  "Three":{"X":113.152,"Y":0.0,"Z":113.152,"ID":6,"Active":true},
-  "Four":{"X":86.848,"Y":0.0,"Z":113.152,"ID":7,"Active":true}
+  "One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},
+  "Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
 }
 ```
 
 </details>
+
+---
 
 ## Clamorous Chase (a.k.a. Limit Cut)
 
