@@ -4,9 +4,9 @@
 ■Towers (True North except Tanks)
 　D3 MT D4　 T：MT N/W　ST S/E
 　MT　　ST 　 D：Basic spread or adjust CW
-　D1 ST D2 　 H：Backup for D
+　D1 ST D2 　 H：Follow D
 ■Limit Cut
-Right Arm (CCW)　Left Arm (CW)
+　Right Up (CCW)　Left Up (CW)
 　 　 　 ４　　 　　　　　４
 　　　　↑　 　 　 　 　　↑
 　１←　 P　→３ 　３←　 P　→１
