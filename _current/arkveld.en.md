@@ -7,9 +7,21 @@ permalink: /7.0_dawntrail/extreme_trials/arkveld/
 
 # The Windward Wilds (Extreme)
 
-Game8 has not yet picked a strat to go with, although PF is gravitating towards Nukemaru's strat.
+[Game8](https://game8.jp/ff14/728013) has gone with Nukemaru's guide.
 
 {% include youtube.html id="nmdYU_3REik" %}
+
+---
+
+## English
+
+{% include_relative macros/arkveld.en.md %}
+
+## Japanese
+
+{% include_relative macros/arkveld.jp.md %}
+
+---
 
 ## Markers
 

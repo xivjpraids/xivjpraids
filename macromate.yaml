@@ -4,6 +4,16 @@ macros:
   # = Current Content =
   # ===================
 
+  - name: "The Windward Wilds (Extreme)"
+    group: "Current/English"
+    iconId: 26462
+    markdownUrl: _current/macros/arkveld.en.md
+
+  - name: "The Windward Wilds (Extreme)"
+    group: "Current/Japanese"
+    iconId: 26462
+    markdownUrl: _current/macros/arkveld.jp.md
+
   - name: "The Minstrel's Ballad: Necron's Embrace"
     group: "Current/English"
     iconId: 26682
