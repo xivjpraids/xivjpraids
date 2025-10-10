@@ -21,6 +21,12 @@ permalink: /7.0_dawntrail/extreme_trials/arkveld/
 
 {% include_relative macros/arkveld.jp.md %}
 
+You can also reference this cheatsheet.
+
+<a href="{{site.baseurl}}/images/7.0_dawntrail/arkveld/cheatsheet.jpg">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/arkveld/cheatsheet.jpg">
+</a>
+
 ---
 
 ## Markers

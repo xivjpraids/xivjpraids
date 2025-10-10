@@ -28,7 +28,9 @@ change.
 
 Alternatively, you can also reference [this cheatsheet](https://twitter.com/Dz178Ruca/status/1910309134504988805):
 
-![]({{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg)
+<a href="{{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/m6s/m6s_cheatsheet.jpg">
+</a>
 
 ---
 
