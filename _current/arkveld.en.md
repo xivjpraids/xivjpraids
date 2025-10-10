@@ -7,31 +7,13 @@ permalink: /7.0_dawntrail/extreme_trials/arkveld/
 
 # The Windward Wilds (Extreme)
 
-Game8 has not yet picked a strat to go with.
-
----
-
-## Kurapon
-
-{% include youtube.html id="VIFRyhZO63Y" %}
-
----
-
-## Nukemaru
+Game8 has not yet picked a strat to go with, although PF is gravitating towards Nukemaru's strat.
 
 {% include youtube.html id="nmdYU_3REik" %}
 
----
-
-## Takeshi
-
-{% include youtube.html id="w7nxI38Y9rs" %}
-
----
-
 ## Markers
 
-The `ABCD` markers are used by the Nukemaru and Takeshi strats for the Clamorous Chase mechanic.
+The `ABCD` markers are used for *Clamorous Chase*.
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/arkveld/markers.jpg)
 <details markdown=block>
