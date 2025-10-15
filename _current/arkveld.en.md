@@ -10,6 +10,7 @@ permalink: /7.0_dawntrail/extreme_trials/arkveld/
 [Game8](https://game8.jp/ff14/728013) has gone with Nukemaru's guide.
 
 {% include youtube.html id="nmdYU_3REik" %}
+_(English subtitled)_
 
 ---
 
