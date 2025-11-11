@@ -14,6 +14,8 @@ Meteor).
 Keep that in mind when looking up other English videos/guides as there will
 likely be differences.
 
+---
+
 ## Current content (Patch 7.3)
 
 The current item level cap is **iLvl 765**.
@@ -31,11 +33,17 @@ The current item level cap is **iLvl 765**.
 - **M7S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s)
 - **M8S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s)
 
-**Ultimate Raids:**
-- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)
-
 **Other Raid Content:**
 - **OC** - [Occult Crescent]({{site.baseurl}}/7.0_dawntrail/others/occult_crescent)
+
+---
+
+## Ultimate Raids
+
+This site does not cover Ultimates. You can find those at either:
+
+- [Tuufless's Notes](ffxiv.tuufless.com)
+- [Mana DC Raid Resources](https://www.notion.so/Mana-DC-Raid-Resources-6b666eae20e64b80ab47cf456a8810ec)
 
 ---
 

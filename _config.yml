@@ -41,7 +41,5 @@ just_the_docs:
   collections:
     current:
       name: 7.3 The Promise of Tomorrow
-    ultimates:
-      name: Ultimates
     raids:
       name: Archives
