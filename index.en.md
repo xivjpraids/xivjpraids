@@ -42,7 +42,7 @@ The current item level cap is **iLvl 765**.
 
 This site does not cover Ultimates. You can find those at either:
 
-- [Tuufless's Notes](ffxiv.tuufless.com)
+- [Tuufless's Notes](https://ffxiv.tuufless.com)
 - [Mana DC Raid Resources](https://www.notion.so/Mana-DC-Raid-Resources-6b666eae20e64b80ab47cf456a8810ec)
 
 ---
