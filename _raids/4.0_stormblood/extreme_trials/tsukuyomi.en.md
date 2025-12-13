@@ -9,6 +9,10 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 # The Minstrel's Ballad: Tsukuyomi's Pain
 
+A more up-to-date reference would be Nukemaru's guide:
+
+{% include youtube.html id="jAzq0zogmwo" %}
+
 ## English
 
 {% include_relative macros/tsukuyomi.en.md %}
@@ -17,9 +21,9 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 {% include_relative macros/tsukuyomi.jp.md %}
 
-## Moon Phase
+## Supreme Selenomancy
 
-[Rough idea of the moon (colours) phase](https://youtu.be/oxQdr3B4RdM)
+{% include youtube.html id="oxQdr3B4RdM" %}
 
 ## Markers
 

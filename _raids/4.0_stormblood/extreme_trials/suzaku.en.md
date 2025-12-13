@@ -9,8 +9,6 @@ permalink: /4.0_stormblood/extreme_trials/suzaku/
 
 # Hells' Kier (Extreme)
 
-N.B: This page will be updated to reference Game8 when they publish their article.
-
 A more up-to-date reference would be Nukemaru's guide:
 
 {% include youtube.html id="vCpmEbzmzMo" %}
