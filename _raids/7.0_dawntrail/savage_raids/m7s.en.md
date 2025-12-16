@@ -1,7 +1,9 @@
 ---
 layout: default
 title: M7S
-nav_order: 6
+parent: Savage Raids
+nav_order: 7
+grand_parent: 7.0 Dawntrail
 permalink: /7.0_dawntrail/savage_raids/m7s/
 ---
 

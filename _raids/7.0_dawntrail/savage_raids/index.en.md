@@ -27,6 +27,16 @@ The item level cap for AAC Cruiserweight Tier is **iLvl 765**.
 - **M3S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s)
 - **M4S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s)
 
+### AAC Heavyweight Tier (Patch 7.4)
+
+The item level cap for AAC Heavyweight Tier is **iLvl 795**.
+
+- **M9S** - [AAC Heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m9s)
+- **M10S** - [AAC Heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m10s)
+- **M11S** - [AAC Heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m11s)
+- **M12S** - [AAC Heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s)
+
+
 ---
 
 ## Frequently Asked Questions

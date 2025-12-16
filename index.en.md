@@ -16,25 +16,21 @@ likely be differences.
 
 ---
 
-## Current content (Patch 7.3)
+## Current content (Patch 7.4)
 
-The current item level cap is **iLvl 765**.
+The current item level cap is **iLvl 775**.
 
 **Extreme Trials:**
-- **Necron EX** - [The Minstrel's Ballad: Necron's Embrace]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
-- **Arkveld EX** - [The Windward Wilds (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/arkveld)
+- **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain) - *Under Construction*
 
 **Unreal Trials:**
-- **Seiryu Unreal** - [The Wreath of Snakes (Unreal)]({{site.baseurl}}/unreal/seiryu)
+- **Tsukuyomi Unreal** - [Tsukuyomi's Pain (Unreal)]({{site.baseurl}}/unreal/tsukuyomi)
 
-**Savage Raids:**
-- **M5S** - [AAC Cruiserweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m5s)
-- **M6S** - [AAC Cruiserweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m6s)
-- **M7S** - [AAC Cruiserweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m7s)
-- **M8S** - [AAC Cruiserweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m8s)
-
-**Other Raid Content:**
-- **OC** - [Occult Crescent]({{site.baseurl}}/7.0_dawntrail/others/occult_crescent)
+**Savage Raids** *(These will not be released until 6 January 2026)*:
+- **AAC Heavyweight M1** - [M9S]({{site.baseurl}}/7.0_dawntrail/savage_raids/m9s) - *Under Construction*
+- **AAC Heavyweight M2** - [M10S]({{site.baseurl}}/7.0_dawntrail/savage_raids/m10s) - *Under Construction*
+- **AAC Heavyweight M3** - [M11S]({{site.baseurl}}/7.0_dawntrail/savage_raids/m11s) - *Under Construction*
+- **AAC Heavyweight M4** - [M12S]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s) - *Under Construction*
 
 ---
 

@@ -15,3 +15,4 @@ permalink: /7.0_dawntrail/extreme_trials/
 - **Zelenia EX** - [Recollection (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zelenia)
 - **Necron EX** - [The Minstrel's Ballad: Necron's Embrace]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
 - **Arkveld EX** - [The Windward Wilds (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/arkveld)
+- **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain)

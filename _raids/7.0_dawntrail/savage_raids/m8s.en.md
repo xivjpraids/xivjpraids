@@ -1,7 +1,9 @@
 ---
 layout: default
 title: M8S
-nav_order: 7
+parent: Savage Raids
+nav_order: 8
+grand_parent: 7.0 Dawntrail
 permalink: /7.0_dawntrail/savage_raids/m8s/
 ---
 
