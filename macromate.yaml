@@ -4,75 +4,15 @@ macros:
   # = Current Content =
   # ===================
 
-  - name: "The Windward Wilds (Extreme)"
+  - name: "Tsukuyomi's Pain (Unreal)"
     group: "Current/English"
-    iconId: 26462
-    markdownUrl: _current/macros/arkveld.en.md
+    iconId: 26533
+    markdownUrl: _current/macros/stsukuyomi.en.md
 
-  - name: "The Windward Wilds (Extreme)"
+  - name: "Tsukuyomi's Pain (Unreal)"
     group: "Current/Japanese"
-    iconId: 26462
-    markdownUrl: _current/macros/arkveld.jp.md
-
-  - name: "The Minstrel's Ballad: Necron's Embrace"
-    group: "Current/English"
-    iconId: 26682
-    markdownUrl: _current/macros/necron.en.md
-
-  - name: "The Minstrel's Ballad: Necron's Embrace"
-    group: "Current/Japanese"
-    iconId: 26682
-    markdownUrl: _current/macros/necron.jp.md
-
-  - name: "The Wreath of Snakes (Unreal)"
-    group: "Current/English"
-    iconId: 26545
-    markdownUrl: _current/macros/seiryu.en.md
-
-  - name: "The Wreath of Snakes (Unreal)"
-    group: "Current/Japanese"
-    iconId: 26545
-    markdownUrl: _current/macros/seiryu.jp.md
-
-  - name: "AAC Cruiserweight M1 (Savage)"
-    group: "Current/English"
-    iconId: 26457
-    markdownUrl: _current/macros/m5s.en.md
-
-  - name: "AAC Cruiserweight M1 (Savage)"
-    group: "Current/Japanese"
-    iconId: 26457
-    markdownUrl: _current/macros/m5s.jp.md
-
-  - name: "AAC Cruiserweight M2 (Savage)"
-    group: "Current/English"
-    iconId: 26458
-    markdownUrl: _current/macros/m6s.en.md
-
-  - name: "AAC Cruiserweight M2 (Savage)"
-    group: "Current/Japanese"
-    iconId: 26458
-    markdownUrl: _current/macros/m6s.jp.md
-
-  - name: "AAC Cruiserweight M3 (Savage)"
-    group: "Current/English"
-    iconId: 26459
-    markdownUrl: _current/macros/m7s.en.md
-
-  - name: "AAC Cruiserweight M3 (Savage)"
-    group: "Current/Japanese"
-    iconId: 26459
-    markdownUrl: _current/macros/m7s.jp.md
-
-  - name: "AAC Cruiserweight M4 (Savage)"
-    group: "Current/English"
-    iconId: 26460
-    markdownUrl: _current/macros/m8s.en.md
-
-  - name: "AAC Cruiserweight M4 (Savage)"
-    group: "Current/Japanese"
-    iconId: 26460
-    markdownUrl: _current/macros/m8s.jp.md
+    iconId: 26533
+    markdownUrl: _current/macros/stsukuyomi.jp.md
 
   # ===================
   # = Ultimates       =
@@ -127,6 +67,26 @@ macros:
     iconId: 26680
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/zelenia.jp.md
 
+  - name: "The Minstrel's Ballad: Necron's Embrace"
+    group: "7.0 Dawntrail/Extreme Trials/English"
+    iconId: 26682
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/necron.en.md
+
+  - name: "The Minstrel's Ballad: Necron's Embrace"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
+    iconId: 26682
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/necron.jp.md
+
+  - name: "The Windward Wilds (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/English"
+    iconId: 26462
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/arkveld.en.md
+
+  - name: "The Windward Wilds (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
+    iconId: 26462
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/arkveld.jp.md
+
   # =========================
   # = Dawntrail - Savage    =
   # =========================
@@ -170,6 +130,46 @@ macros:
     group: "7.0 Dawntrail/Savage Raids/Japanese"
     iconId: 26460
     markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m4s.jp.md
+
+  - name: "AAC Cruiserweight M1 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m5s.en.md
+
+  - name: "AAC Cruiserweight M1 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m5s.jp.md
+
+  - name: "AAC Cruiserweight M2 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m6s.en.md
+
+  - name: "AAC Cruiserweight M2 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m6s.jp.md
+
+  - name: "AAC Cruiserweight M3 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m7s.en.md
+
+  - name: "AAC Cruiserweight M3 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m7s.jp.md
+
+  - name: "AAC Cruiserweight M4 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m8s.en.md
+
+  - name: "AAC Cruiserweight M4 (Savage)"
+    group: "7.0 Dawntrail/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/7.0_dawntrail/savage_raids/macros/m8s.jp.md
 
   # =========================
   # = Endwalker - EX trials =

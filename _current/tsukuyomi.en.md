@@ -31,8 +31,8 @@ A more up-to-date reference would be Nukemaru's guide:
 
 ```json
 {
-  "Name":"Tsukuyomi EX",
-  "MapID":538,
+  "Name":"Tsukuyomi Unreal",
+  "MapID":1067,
   "A":{"X":100.0,"Y":0.0,"Z":82.5,"ID":0,"Active":true},
   "B":{"X":117.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
   "C":{"X":100.0,"Y":0.0,"Z":117.5,"ID":2,"Active":true},
