@@ -10,6 +10,7 @@ permalink: /7.0_dawntrail/extreme_trials/doomtrain/
 Nukemaru has released his guide for the encounter, but Game8 has not yet picked a strategy yet.
 
 {% include youtube.html id="2ULZ0NSrZ3w" %}
+*(English subtitled)*
 
 ### English
 
