@@ -21,7 +21,7 @@ likely be differences.
 The current item level cap is **iLvl 775**.
 
 **Extreme Trials:**
-- **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain) - *Under Construction*
+- **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain)
 
 **Unreal Trials:**
 - **Tsukuyomi Unreal** - [Tsukuyomi's Pain (Unreal)]({{site.baseurl}}/unreal/tsukuyomi)
