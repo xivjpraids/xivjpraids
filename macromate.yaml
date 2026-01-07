@@ -78,11 +78,6 @@ macros:
   # = Ultimates       =
   # ===================
 
-  - name: "Future's Rewritten (Ultimate)"
-    group: "Ultimates/Japanese"
-    iconId: 26670
-    markdownUrl: _ultimates/fru/macros/fru.jp.md
-
   # =========================
   # = Dawntrail - EX trials =
   # =========================
