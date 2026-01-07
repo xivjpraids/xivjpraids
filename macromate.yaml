@@ -4,15 +4,75 @@ macros:
   # = Current Content =
   # ===================
 
+  - name: "Hell on Rails (Extreme)"
+    group: "Current/English"
+    iconId: 26684
+    markdownUrl: _current/macros/doomtrain.en.md
+
+  - name: "Hell on Rails (Extreme)"
+    group: "Current/Japanese"
+    iconId: 26684
+    markdownUrl: _current/macros/doomtrain.jp.md
+
   - name: "Tsukuyomi's Pain (Unreal)"
     group: "Current/English"
     iconId: 26533
-    markdownUrl: _current/macros/stsukuyomi.en.md
+    markdownUrl: _current/macros/tsukuyomi.en.md
 
   - name: "Tsukuyomi's Pain (Unreal)"
     group: "Current/Japanese"
     iconId: 26533
-    markdownUrl: _current/macros/stsukuyomi.jp.md
+    markdownUrl: _current/macros/tsukuyomi.jp.md
+
+  - name: "AAC Heavyweight M1 (Savage)"
+    group: "Current/English"
+    iconId: 26457
+    markdownUrl: _current/macros/m9s.en.md
+
+  - name: "AAC Heavyweight M1 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26457
+    markdownUrl: _current/macros/m9s.jp.md
+
+  - name: "AAC Heavyweight M2 (Savage)"
+    group: "Current/English"
+    iconId: 26458
+    markdownUrl: _current/macros/m10s.en.md
+
+  - name: "AAC Heavyweight M2 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26458
+    markdownUrl: _current/macros/m10s.jp.md
+
+  - name: "AAC Heavyweight M3 (Savage)"
+    group: "Current/English"
+    iconId: 26459
+    markdownUrl: _current/macros/m11s.en.md
+
+  - name: "AAC Heavyweight M3 (Savage)"
+    group: "Current/Japanese"
+    iconId: 26459
+    markdownUrl: _current/macros/m11s.jp.md
+
+  - name: "AAC Heavyweight M4 (Savage) - Part 1"
+    group: "Current/English"
+    iconId: 26460
+    markdownUrl: _current/macros/m12s_1.en.md
+
+  - name: "AAC Heavyweight M4 (Savage) - Part 1"
+    group: "Current/Japanese"
+    iconId: 26460
+    markdownUrl: _current/macros/m12s_1.jp.md
+
+  - name: "AAC Heavyweight M4 (Savage) - Part 2"
+    group: "Current/English"
+    iconId: 26460
+    markdownUrl: _current/macros/m12s_2.en.md
+
+  - name: "AAC Heavyweight M4 (Savage) - Part 2"
+    group: "Current/Japanese"
+    iconId: 26460
+    markdownUrl: _current/macros/m12s_2.jp.md
 
   # ===================
   # = Ultimates       =
