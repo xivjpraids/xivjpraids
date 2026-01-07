@@ -48,7 +48,9 @@ The item level cap for AAC Heavyweight Tier is **iLvl 795**.
 - **M9S** - [AAC Heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m9s)
 - **M10S** - [AAC Heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m10s)
 - **M11S** - [AAC Heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m11s)
-- **M12S** - [AAC Heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s)
+- **M12S** - AAC Heavyweight M4 (Savage)
+    - [Part 1]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s_1)
+    - [Part 2]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s_2)
 
 ## Ultimate
 
