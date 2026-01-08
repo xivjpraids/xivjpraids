@@ -61,5 +61,12 @@ The markers are mainly used for *Aetherletting*.
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">最外周の八角形位置で捨てれば、真ん中で処理できるらしい <a href="https://t.co/yLq1yhmgi9">https://t.co/yLq1yhmgi9</a> <a href="https://t.co/QE9AaLir6x">pic.twitter.com/QE9AaLir6x</a></p>&mdash; 攻略見る趣味 (@mitsurugi137) <a href="https://twitter.com/mitsurugi137/status/2008502616553345169?ref_src=twsrc%5Etfw">January 6, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## Timeline
+
+<a href="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.png">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.png">
+</a>
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1q68609/spoiler_74_m9s_timeline/))*
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
