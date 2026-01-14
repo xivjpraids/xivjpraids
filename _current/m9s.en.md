@@ -7,10 +7,6 @@ permalink: /7.0_dawntrail/savage_raids/m9s/
 
 # AAC Heavyweight M1 (Savage)
 
-<div style="background-color: #200 ; padding: 10px">
-<b>UNDER CONSTRUCTION</b>
-</div>
-
 [Game8](https://game8.jp/ff14/754895) has gone ahead with Nukemaru's guide.
 
 {% include youtube.html id="m4_8a0N8GcM" %}
@@ -29,7 +25,7 @@ permalink: /7.0_dawntrail/savage_raids/m9s/
 
 ## Markers
 
-The markers are mainly used for *Aetherletting*.
+The markers are used for *Aetherletting*.
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m9s/markers.jpg)
 <details markdown=block>
@@ -43,10 +39,10 @@ The markers are mainly used for *Aetherletting*.
   "B":{"X":118.016,"Y":0.0,"Z":92.538,"ID":1,"Active":true},
   "C":{"X":107.462,"Y":0.0,"Z":118.016,"ID":2,"Active":true},
   "D":{"X":81.984,"Y":0.0,"Z":107.462,"ID":3,"Active":true},
-  "One":{"X":107.462,"Y":0.0,"Z":81.984,"ID":5,"Active":true},
-  "Two":{"X":118.016,"Y":0.0,"Z":107.462,"ID":6,"Active":true},
-  "Three":{"X":92.538,"Y":0.0,"Z":118.016,"ID":7,"Active":true},
-  "Four":{"X":81.984,"Y":0.0,"Z":92.538,"ID":4,"Active":true}
+  "One":{"X":81.984,"Y":0.0,"Z":92.538,"ID":5,"Active":true},
+  "Two":{"X":107.462,"Y":0.0,"Z":81.984,"ID":6,"Active":true},
+  "Three":{"X":118.016,"Y":0.0,"Z":107.462,"ID":7,"Active":true},
+  "Four":{"X":92.538,"Y":0.0,"Z":118.016,"ID":4,"Active":true}
 }
 ```
 
