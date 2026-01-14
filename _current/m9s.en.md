@@ -27,6 +27,8 @@ permalink: /7.0_dawntrail/savage_raids/m9s/
 
 The markers are used for *Aetherletting*.
 
+These markers follow Nukemaru's guide.
+
 ![]({{site.baseurl}}/images/7.0_dawntrail/m9s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
@@ -43,6 +45,29 @@ The markers are used for *Aetherletting*.
   "Two":{"X":107.462,"Y":0.0,"Z":81.984,"ID":6,"Active":true},
   "Three":{"X":118.016,"Y":0.0,"Z":107.462,"ID":7,"Active":true},
   "Four":{"X":92.538,"Y":0.0,"Z":118.016,"ID":4,"Active":true}
+}
+```
+
+</details>
+
+These markers follow "red is North".
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m9s/markers2.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"M9S",
+  "MapID":1069,
+  "A":{"X":92.538,"Y":0.0,"Z":81.984,"ID":0,"Active":true},
+  "B":{"X":118.016,"Y":0.0,"Z":92.538,"ID":1,"Active":true},
+  "C":{"X":107.462,"Y":0.0,"Z":118.016,"ID":2,"Active":true},
+  "D":{"X":81.984,"Y":0.0,"Z":107.462,"ID":3,"Active":true},
+  "One":{"X":107.462,"Y":0.0,"Z":81.984,"ID":5,"Active":true},
+  "Two":{"X":118.016,"Y":0.0,"Z":107.462,"ID":6,"Active":true},
+  "Three":{"X":92.538,"Y":0.0,"Z":118.016,"ID":7,"Active":true},
+  "Four":{"X":81.984,"Y":0.0,"Z":92.538,"ID":4,"Active":true}
 }
 ```
 
