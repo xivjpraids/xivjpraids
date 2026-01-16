@@ -25,9 +25,9 @@ permalink: /7.0_dawntrail/savage_raids/m9s/
 
 ## Markers
 
-The markers are used for *Aetherletting*.
+There are two sets of markers going around, which are used for *Aetherletting*.
 
-These markers follow Nukemaru's guide.
+### Nukemaru's markers
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m9s/markers.jpg)
 <details markdown=block>
@@ -50,7 +50,7 @@ These markers follow Nukemaru's guide.
 
 </details>
 
-These markers follow "red is North".
+### "Red is North" markers
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m9s/markers2.jpg)
 <details markdown=block>
