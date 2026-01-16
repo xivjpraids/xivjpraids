@@ -75,14 +75,6 @@ There are two sets of markers going around, which are used for *Aetherletting*.
 
 ---
 
-## Aetherletting
-
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">アルカディア零式ヘビー級1層<br>初回クリア動画忍者<br>炎十字のところ捨て位置固定で中央安置にしてます。<a href="https://t.co/hNwhVG8nVE">https://t.co/hNwhVG8nVE</a><br><br>図は結構角度とか急ぎなので雑です <a href="https://t.co/yz7NyxLBgD">pic.twitter.com/yz7NyxLBgD</a></p>&mdash; ぬけまる@Meteor光の攻略動画投稿忍者🥷⚡️ (@nukemarugames) <a href="https://twitter.com/nukemarugames/status/2008524534128013538?ref_src=twsrc%5Etfw">January 6, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">最外周の八角形位置で捨てれば、真ん中で処理できるらしい <a href="https://t.co/yLq1yhmgi9">https://t.co/yLq1yhmgi9</a> <a href="https://t.co/QE9AaLir6x">pic.twitter.com/QE9AaLir6x</a></p>&mdash; 攻略見る趣味 (@mitsurugi137) <a href="https://twitter.com/mitsurugi137/status/2008502616553345169?ref_src=twsrc%5Etfw">January 6, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
----
-
 ## Timeline
 
 <a href="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.png">
