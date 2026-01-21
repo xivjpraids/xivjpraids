@@ -18,7 +18,7 @@ likely be differences.
 
 ## Current content (Patch 7.4)
 
-The current item level cap is **iLvl 775**.
+The current item level cap is **iLvl 795**.
 
 **Extreme Trials:**
 - **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain)
