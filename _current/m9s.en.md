@@ -77,8 +77,8 @@ There are two sets of markers going around, which are used for *Aetherletting*.
 
 ## Timeline
 
-<a href="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.png">
-  <img src="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.png">
+<a href="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.jpg">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/m9s/timeline.jpg">
 </a>
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1q68609/spoiler_74_m9s_timeline/))*
 
