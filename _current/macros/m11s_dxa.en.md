@@ -23,7 +23,7 @@
 ■ Ecliptic Stampede (DXA) ーーーーーーーーーー
 　Range Puddles： (North) H1 D3 D4 H2 (South)
 　Melee AoEs：Under boss → A → CW
-　Towers (CW from North)：
+　Towers (CW from West)：
 　　1st：MT, D1 + D2
 　　2nd：ST, 2x unmarked range
 　Tethers：Stretch to opposite CW corner
