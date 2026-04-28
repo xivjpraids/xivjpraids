@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Doomtrain EX
-nav_order: 1
+parent: Extreme Trials
+nav_order: 7
+grand_parent: 7.0 Dawntrail
 permalink: /7.0_dawntrail/extreme_trials/doomtrain/
 ---
 

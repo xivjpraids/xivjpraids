@@ -16,15 +16,15 @@ likely be differences.
 
 ---
 
-## Current content (Patch 7.4)
+## Current content (Patch 7.5)
 
 The current item level cap is **iLvl 795**.
 
 **Extreme Trials:**
-- **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain)
+- **Enuo EX** - [The Unmaking (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/enuo) - *Under Construction*
 
 **Unreal Trials:**
-- **Tsukuyomi Unreal** - [Tsukuyomi's Pain (Unreal)]({{site.baseurl}}/unreal/tsukuyomi)
+- **Shinryu Unreal** - [Shinryu's Domain (Unreal)]({{site.baseurl}}/unreal/shinryu)
 
 **Savage Raids:**
 - **AAC Heavyweight M1** - [M9S]({{site.baseurl}}/7.0_dawntrail/savage_raids/m9s)

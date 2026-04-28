@@ -20,6 +20,7 @@ The level cap for Dawntrail is **Level 100**.
 - **Necron EX** - [The Minstrel's Ballad: Necron's Embrace]({{site.baseurl}}/7.0_dawntrail/extreme_trials/necron)
 - **Arkveld EX** - [The Windward Wilds (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/arkveld)
 - **Doomtrain EX** - [Hell on Rails (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/doomtrain)
+- **Enuo EX** - [The Unmaking (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/enuo)
 
 ## Savage
 
@@ -51,7 +52,3 @@ The item level cap for AAC Heavyweight Tier is **iLvl 795**.
 - **M12S** - AAC Heavyweight M4 (Savage)
     - [Part 1]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s_1)
     - [Part 2]({{site.baseurl}}/7.0_dawntrail/savage_raids/m12s_2)
-
-## Ultimate
-
-- **FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)
