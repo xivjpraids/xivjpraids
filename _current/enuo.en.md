@@ -36,5 +36,22 @@ permalink: /7.0_dawntrail/extreme_trials/enuo/
 
 </details>
 
+---
+
+## Cheatsheet
+
+<a href="{{site.baseurl}}/images/7.0_dawntrail/enuo/cheatsheet.jpg">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/enuo/cheatsheet.jpg">
+</a>
+
+---
+
+## Timeline
+
+<a href="{{site.baseurl}}/images/7.0_dawntrail/enuo/timeline.jpg">
+  <img src="{{site.baseurl}}/images/7.0_dawntrail/enuo/timeline.jpg">
+</a>
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1szfa5w/spoiler_75_75_ex_timeline/))*
+
 <script data-goatcounter="https://xivjpraids.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
