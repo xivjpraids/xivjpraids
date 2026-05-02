@@ -4,25 +4,25 @@ macros:
   # = Current Content =
   # ===================
 
-  - name: "Hell on Rails (Extreme)"
+  - name: "The Unmaking (Extreme)"
     group: "Current/English"
-    iconId: 26684
-    markdownUrl: _current/macros/doomtrain.en.md
+    iconId: 26696
+    markdownUrl: _current/macros/enuo.en.md
 
-  - name: "Hell on Rails (Extreme)"
+  - name: "The Unmaking (Extreme)"
     group: "Current/Japanese"
-    iconId: 26684
-    markdownUrl: _current/macros/doomtrain.jp.md
+    iconId: 26696
+    markdownUrl: _current/macros/enuo.jp.md
 
-  - name: "Tsukuyomi's Pain (Unreal)"
+  - name: "Shinryu's Domain (Unreal)"
     group: "Current/English"
-    iconId: 26533
-    markdownUrl: _current/macros/tsukuyomi.en.md
+    iconId: 26521
+    markdownUrl: _current/macros/shinryu.en.md
 
-  - name: "Tsukuyomi's Pain (Unreal)"
+  - name: "Shinryu's Domain (Unreal)"
     group: "Current/Japanese"
-    iconId: 26533
-    markdownUrl: _current/macros/tsukuyomi.jp.md
+    iconId: 26521
+    markdownUrl: _current/macros/shinryu.jp.md
 
   - name: "AAC Heavyweight M1 (Savage)"
     group: "Current/English"
@@ -141,6 +141,16 @@ macros:
     group: "7.0 Dawntrail/Extreme Trials/Japanese"
     iconId: 26462
     markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/arkveld.jp.md
+
+  - name: "Hell on Rails (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/English"
+    iconId: 26684
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/doomtrain.en.md
+
+  - name: "Hell on Rails (Extreme)"
+    group: "7.0 Dawntrail/Extreme Trials/Japanese"
+    iconId: 26684
+    markdownUrl: _raids/7.0_dawntrail/extreme_trials/macros/doomtrain.jp.md
 
   # =========================
   # = Dawntrail - Savage    =
