@@ -7,8 +7,6 @@ permalink: /7.0_dawntrail/extreme_trials/enuo/
 
 # The Unmaking (Extreme)
 
-**UNDER CONSTRUCTION**
-
 [Game8](https://game8.jp/ff14/782325) has gone ahead with Nukemaru's guide.
 
 {% include youtube.html id="nO5k9JoY4eE" %}
