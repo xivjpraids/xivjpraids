@@ -21,7 +21,7 @@ likely be differences.
 The current item level cap is **iLvl 795**.
 
 **Extreme Trials:**
-- **Enuo EX** - [The Unmaking (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/enuo) - *Under Construction*
+- **Enuo EX** - [The Unmaking (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/enuo)
 
 **Unreal Trials:**
 - **Shinryu Unreal** - [Shinryu's Domain (Unreal)]({{site.baseurl}}/unreal/shinryu)
